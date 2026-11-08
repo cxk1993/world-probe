@@ -83,7 +83,7 @@ def main():
             snap["gdelt"][name] = gdelt(q)
         except Exception as e:  # noqa: BLE001
             snap["errors"]["gdelt:" + name] = type(e).__name__ + ":" + str(e)[:80]
-        time.sleep(8)  # GDELT: >=1 req / 5s
+        time.sleep(30)  # GDELT: 429 even at 8s from GH runners; back off hard
 
     for name, url in RSS.items():
         try:
