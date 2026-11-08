@@ -1,17 +1,10 @@
 {
- "ts": "2026-11-08T14:40:24Z",
+ "ts": "2026-11-08T15:45:36Z",
  "gdelt": {
-  "ai": {
-   "now": 3.0442,
-   "ref": 3.2969,
-   "chg_pct": -7.7,
-   "points": 20,
-   "asof": "20261108T000000Z"
-  },
   "oil": {
-   "now": 0.0854,
+   "now": 0.1087,
    "ref": 0.2997,
-   "chg_pct": -71.5,
+   "chg_pct": -63.7,
    "points": 20,
    "asof": "20261108T000000Z"
   }
@@ -54,6 +47,9 @@
   "aljazeera": {
    "count": 25,
    "titles": [
+    "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
+    "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
+    "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
     "US task force to cut off Iran’s transport of advanced weapons: What we know",
     "Spain win Padel World Cup in Qatar as sport’s popularity soars",
     "At least 21 dead as small boat sinks off Senegal",
@@ -62,16 +58,132 @@
     "Could Iraq’s Kurdish region return to two separate administrations?",
     "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
     "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-    "South Africa’s ANC suffers setback in local elections",
-    "Could UFC boss Dana White be next White House press secretary?",
-    "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-    "Messi becomes first player to win back-to-back MLS Golden Boot awards"
+    "South Africa’s ANC suffers setback in local elections"
    ]
   },
   "un_news": {
    "count": 0,
    "titles": []
   }
+ },
+ "cn": {
+  "rows": [
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": 0.69
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": 0.18
+   },
+   {
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": 0.14
+   },
+   {
+    "name": "煤炭ETF国泰",
+    "grp": "资源",
+    "chg": -0.26
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": -0.96
+   },
+   {
+    "name": "证券ETF国泰",
+    "grp": "地产金融",
+    "chg": -1.17
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -1.19
+   },
+   {
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": -1.26
+   },
+   {
+    "name": "恒生科技ETF华泰柏瑞",
+    "grp": "跨境",
+    "chg": -1.38
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -1.64
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": -1.69
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -1.83
+   },
+   {
+    "name": "黄金ETF华安",
+    "grp": "商品",
+    "chg": -1.98
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": -2.25
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -2.28
+   },
+   {
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -2.49
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -3.0
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": -3.19
+   },
+   {
+    "name": "有色金属ETF南方",
+    "grp": "资源",
+    "chg": -3.21
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
+    "chg": -4.03
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": -4.82
+   }
+  ],
+  "median": -1.69,
+  "spread": 5.51,
+  "strong": [
+   "银行ETF华宝",
+   0.69
+  ],
+  "weak": [
+   "日经ETF华夏",
+   -4.82
+  ]
  },
  "reach": [
   {
@@ -93,6 +205,7 @@
  "errors": {
   "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
