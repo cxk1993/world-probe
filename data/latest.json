@@ -1,0 +1,101 @@
+{
+ "ts": "2026-11-08T14:40:24Z",
+ "gdelt": {
+  "ai": {
+   "now": 3.0442,
+   "ref": 3.2969,
+   "chg_pct": -7.7,
+   "points": 20,
+   "asof": "20261108T000000Z"
+  },
+  "oil": {
+   "now": 0.0854,
+   "ref": 0.2997,
+   "chg_pct": -71.5,
+   "points": 20,
+   "asof": "20261108T000000Z"
+  }
+ },
+ "rss": {
+  "bbc_world": {
+   "count": 25,
+   "titles": [
+    "What we know so far after Krakow gun attack",
+    "Houthis say at least 33 killed in Saudi air strike",
+    "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+    "Israel's president tasks opposition leader Eisenkot with forming government",
+    "US offers $20m reward for information about Iran's nuclear programme",
+    "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+    "Paraguay's former president charged after bank collapse",
+    "Pope in 'pretty good health' as he starts Latin America tour",
+    "Italian foreign minister says hackers leaked his personal data",
+    "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+    "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+    "Texas mayor instructs police to limit co-operation with ICE"
+   ]
+  },
+  "bbc_business": {
+   "count": 45,
+   "titles": [
+    "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+    "He spent $50,000 on Labubus but now the craze is dying",
+    "AI stocks climb after trillions wiped from market values",
+    "Why the US midterms sparked an AI stock selloff",
+    "How does it affect me if share prices fall?",
+    "Why smoky bacon crisps threaten to reignite rows over EU rules",
+    "Elon Musk appears to signal the end of the road for Cybertruck",
+    "PM tells firms to publish salaries in job adverts ahead of new law",
+    "'I was asked if I was a crier': Your worst job interviews revealed",
+    "Interest rates hiked to 4% in first increase in over three years",
+    "Faisal Islam: How high will interest rates go?"
+   ]
+  },
+  "aljazeera": {
+   "count": 25,
+   "titles": [
+    "US task force to cut off Iran’s transport of advanced weapons: What we know",
+    "Spain win Padel World Cup in Qatar as sport’s popularity soars",
+    "At least 21 dead as small boat sinks off Senegal",
+    "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+    "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
+    "Could Iraq’s Kurdish region return to two separate administrations?",
+    "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+    "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+    "South Africa’s ANC suffers setback in local elections",
+    "Could UFC boss Dana White be next White House press secretary?",
+    "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+    "Messi becomes first player to win back-to-back MLS Golden Boot awards"
+   ]
+  },
+  "un_news": {
+   "count": 0,
+   "titles": []
+  }
+ },
+ "reach": [
+  {
+   "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=test&mode=artlist&maxrecords=1&format=json",
+   "status": 429,
+   "err": "http"
+  },
+  {
+   "url": "https://worldmonitor.app/llms.txt",
+   "status": 200,
+   "bytes": 4096
+  },
+  {
+   "url": "https://www.reuters.com/",
+   "status": 401,
+   "err": "http"
+  }
+ ],
+ "errors": {
+  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests"
+ }
+}
