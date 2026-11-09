@@ -1,35 +1,44 @@
 {
- "ts": "2026-11-08T15:45:36Z",
+ "ts": "2026-11-09T02:54:53Z",
  "gdelt": {
-  "oil": {
-   "now": 0.1087,
-   "ref": 0.2997,
-   "chg_pct": -63.7,
+  "tsmc": {
+   "now": 0.1637,
+   "ref": 0.0901,
+   "chg_pct": 81.7,
    "points": 20,
-   "asof": "20261108T000000Z"
+   "asof": "20261109T000000Z"
+  },
+  "semis": {
+   "now": 1.1871,
+   "ref": 0.991,
+   "chg_pct": 19.8,
+   "points": 20,
+   "asof": "20261109T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 25,
+   "count": 27,
    "titles": [
-    "What we know so far after Krakow gun attack",
-    "Houthis say at least 33 killed in Saudi air strike",
+    "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+    "Seven dead and more than 100 injured after trains collide in Egypt",
+    "Homes and temples glow across India to mark Diwali",
+    "Iran executes three men for 'armed unrest' after January protests",
+    "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
     "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-    "Israel's president tasks opposition leader Eisenkot with forming government",
-    "US offers $20m reward for information about Iran's nuclear programme",
-    "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
     "Paraguay's former president charged after bank collapse",
     "Pope in 'pretty good health' as he starts Latin America tour",
     "Italian foreign minister says hackers leaked his personal data",
     "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-    "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-    "Texas mayor instructs police to limit co-operation with ICE"
+    "US offers $20m reward for information about Iran's nuclear programme",
+    "Meghan's father Thomas Markle under house arrest after child sex abuse material charge"
    ]
   },
   "bbc_business": {
-   "count": 45,
+   "count": 47,
    "titles": [
+    "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    "Doing these things now will help you save money at Christmas",
     "Government 'looking seriously' at banning under-16s from Vinted and eBay",
     "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
     "He spent $50,000 on Labubus but now the craze is dying",
@@ -39,150 +48,161 @@
     "Why smoky bacon crisps threaten to reignite rows over EU rules",
     "Elon Musk appears to signal the end of the road for Cybertruck",
     "PM tells firms to publish salaries in job adverts ahead of new law",
-    "'I was asked if I was a crier': Your worst job interviews revealed",
-    "Interest rates hiked to 4% in first increase in over three years",
-    "Faisal Islam: How high will interest rates go?"
+    "'I was asked if I was a crier': Your worst job interviews revealed"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
-    "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
-    "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-    "US task force to cut off Iran’s transport of advanced weapons: What we know",
-    "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-    "At least 21 dead as small boat sinks off Senegal",
-    "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-    "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
-    "Could Iraq’s Kurdish region return to two separate administrations?",
-    "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-    "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-    "South Africa’s ANC suffers setback in local elections"
+    "Moldova launches new power line to Romania to cut reliance on Russia",
+    "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+    "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+    "India’s night lights up for Diwali",
+    "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+    "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’",
+    "Nvidia CEO’s affair sparks Chinese espionage probe",
+    "Mexican mayor found alive after hours-long abduction",
+    "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+    "Lopez double fires Barcelona to win at Atletico Madrid",
+    "President Milei welcomes Pope Leo during historic visit to Argentina",
+    "US chipmaker Nvidia investigates CEO Jensen Huang over affair"
    ]
   },
   "un_news": {
-   "count": 0,
-   "titles": []
+   "count": 30,
+   "titles": [
+    "Beyond the broken glass: The human cost of the 1938 November Pogrom",
+    "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+    "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+    "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+    "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+    "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+    "‘No Escape’ for refugees on the frontlines of the climate crisis",
+    "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+    "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+    "Children at risk as war zone attacks on water and sanitation more than triple",
+    "Two new Ebola vaccines to join DR Congo clinical trial",
+    "COP31 explained: What’s at stake at this year’s UN climate summit?"
+   ]
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": 0.69
-   },
-   {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": 0.18
-   },
-   {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": 0.14
-   },
-   {
     "name": "煤炭ETF国泰",
     "grp": "资源",
-    "chg": -0.26
-   },
-   {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": -0.96
-   },
-   {
-    "name": "证券ETF国泰",
-    "grp": "地产金融",
-    "chg": -1.17
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -1.19
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": -1.26
-   },
-   {
-    "name": "恒生科技ETF华泰柏瑞",
-    "grp": "跨境",
-    "chg": -1.38
-   },
-   {
-    "name": "房地产ETF南方",
-    "grp": "地产金融",
-    "chg": -1.64
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": -1.69
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": -1.83
-   },
-   {
-    "name": "黄金ETF华安",
-    "grp": "商品",
-    "chg": -1.98
-   },
-   {
-    "name": "中证1000ETF南方",
-    "grp": "宽基",
-    "chg": -2.25
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": -2.28
-   },
-   {
-    "name": "新能源车ETF华夏",
-    "grp": "制造",
-    "chg": -2.49
-   },
-   {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": -3.0
-   },
-   {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": -3.19
-   },
-   {
-    "name": "有色金属ETF南方",
-    "grp": "资源",
-    "chg": -3.21
-   },
-   {
-    "name": "人工智能ETF易方达",
-    "grp": "科技",
-    "chg": -4.03
+    "chg": 3.34
    },
    {
     "name": "日经ETF华夏",
     "grp": "跨境",
-    "chg": -4.82
+    "chg": 1.99
+   },
+   {
+    "name": "黄金ETF华安",
+    "grp": "商品",
+    "chg": 1.81
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": 1.76
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
+    "chg": 1.4
+   },
+   {
+    "name": "有色金属ETF南方",
+    "grp": "资源",
+    "chg": 0.97
+   },
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": 0.68
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": 0.46
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": 0.45
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": 0.36
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": 0.31
+   },
+   {
+    "name": "恒生科技ETF华泰柏瑞",
+    "grp": "跨境",
+    "chg": 0.2
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": 0.13
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": 0.01
+   },
+   {
+    "name": "证券ETF国泰",
+    "grp": "地产金融",
+    "chg": -0.1
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": -0.14
+   },
+   {
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": -0.25
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -0.53
+   },
+   {
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": -0.56
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -0.8
+   },
+   {
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -0.8
    }
   ],
-  "median": -1.69,
-  "spread": 5.51,
+  "median": 0.31,
+  "spread": 4.14,
   "strong": [
-   "银行ETF华宝",
-   0.69
+   "煤炭ETF国泰",
+   3.34
   ],
   "weak": [
-   "日经ETF华夏",
-   -4.82
+   "新能源车ETF华夏",
+   -0.8
   ]
  },
  "reach": [
@@ -203,12 +223,11 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
   "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:taiwan": "URLError:<urlopen error _ssl.c:994: The handshake operation timed out>",
+  "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
