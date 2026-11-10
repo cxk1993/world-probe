@@ -1,147 +1,117 @@
 {
- "ts": "2026-11-09T02:54:53Z",
+ "ts": "2026-11-10T04:45:28Z",
  "gdelt": {
-  "tsmc": {
-   "now": 0.1637,
-   "ref": 0.0901,
-   "chg_pct": 81.7,
-   "points": 20,
-   "asof": "20261109T000000Z"
-  },
-  "semis": {
-   "now": 1.1871,
-   "ref": 0.991,
-   "chg_pct": 19.8,
-   "points": 20,
-   "asof": "20261109T000000Z"
+  "taiwan": {
+   "now": 2.8419,
+   "ref": 1.6045,
+   "chg_pct": 77.1,
+   "points": 21,
+   "asof": "20261110T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 27,
+   "count": 31,
    "titles": [
-    "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-    "Seven dead and more than 100 injured after trains collide in Egypt",
-    "Homes and temples glow across India to mark Diwali",
-    "Iran executes three men for 'armed unrest' after January protests",
-    "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-    "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-    "Paraguay's former president charged after bank collapse",
-    "Pope in 'pretty good health' as he starts Latin America tour",
-    "Italian foreign minister says hackers leaked his personal data",
-    "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-    "US offers $20m reward for information about Iran's nuclear programme",
-    "Meghan's father Thomas Markle under house arrest after child sex abuse material charge"
+    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "Trump says more US attacks on Iran 'highly unlikely'",
+    "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+    "France accuses Iran of supermarket fridge hacking",
+    "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+    "Qantas to outsource 850 local jobs with most roles moving to India",
+    "Russia's leading independent newspaper closes after eviction",
+    "Turkey steel factory blast kills at least 17 people",
+    "Judge denies motion to dismiss Lindsay Clancy's murder case",
+    "Trial date of alleged Charlie Kirk killer set for June 2028"
    ]
   },
   "bbc_business": {
-   "count": 47,
+   "count": 55,
    "titles": [
-    "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "Civil servant who secretly held five jobs found guilty of fraud",
+    "How a civil servant got away with juggling five jobs for so long",
+    "Poundland unable to buy new stock as fears over collapse grow",
+    "Qantas to outsource 850 local jobs with most roles moving to India",
+    "What we know so far about Jensen Huang's affair with suspected Chinese spy",
     "Doing these things now will help you save money at Christmas",
-    "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-    "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-    "He spent $50,000 on Labubus but now the craze is dying",
-    "AI stocks climb after trillions wiped from market values",
-    "Why the US midterms sparked an AI stock selloff",
-    "How does it affect me if share prices fall?",
-    "Why smoky bacon crisps threaten to reignite rows over EU rules",
-    "Elon Musk appears to signal the end of the road for Cybertruck",
-    "PM tells firms to publish salaries in job adverts ahead of new law",
-    "'I was asked if I was a crier': Your worst job interviews revealed"
+    "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+    "Government's EV targets expected to be reduced this week",
+    "Government 'looking seriously' at banning under-16s from Vinted and eBay"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Moldova launches new power line to Romania to cut reliance on Russia",
-    "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-    "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-    "India’s night lights up for Diwali",
-    "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
-    "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’",
-    "Nvidia CEO’s affair sparks Chinese espionage probe",
-    "Mexican mayor found alive after hours-long abduction",
-    "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-    "Lopez double fires Barcelona to win at Atletico Madrid",
-    "President Milei welcomes Pope Leo during historic visit to Argentina",
-    "US chipmaker Nvidia investigates CEO Jensen Huang over affair"
+    "Anger as ICE agents make arrest in New Jersey grocery store",
+    "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+    "Newly-elected Democrats react to Hegseth impeachment bid",
+    "Harare demolitions leave families homeless after years of building",
+    "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+    "Cameroon sets date for twice-delayed legislative and local elections",
+    "Israel’s Shin Bet finds no evidence of foreign election interference",
+    "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+    "France blames Iran for October supermarket cyberattack",
+    "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+    "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+    "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy"
    ]
   },
   "un_news": {
-   "count": 30,
-   "titles": [
-    "Beyond the broken glass: The human cost of the 1938 November Pogrom",
-    "‘For the first time I have my own chair’: Gaza siblings find new freedom",
-    "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-    "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-    "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
-    "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-    "‘No Escape’ for refugees on the frontlines of the climate crisis",
-    "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-    "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
-    "Children at risk as war zone attacks on water and sanitation more than triple",
-    "Two new Ebola vaccines to join DR Congo clinical trial",
-    "COP31 explained: What’s at stake at this year’s UN climate summit?"
-   ]
+   "count": 0,
+   "titles": []
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "煤炭ETF国泰",
-    "grp": "资源",
-    "chg": 3.34
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": 2.71
    },
    {
     "name": "日经ETF华夏",
     "grp": "跨境",
-    "chg": 1.99
+    "chg": 2.57
    },
    {
-    "name": "黄金ETF华安",
-    "grp": "商品",
-    "chg": 1.81
-   },
-   {
-    "name": "军工ETF国泰",
+    "name": "半导体ETF国联安",
     "grp": "科技",
-    "chg": 1.76
+    "chg": 1.55
    },
    {
     "name": "人工智能ETF易方达",
     "grp": "科技",
-    "chg": 1.4
-   },
-   {
-    "name": "有色金属ETF南方",
-    "grp": "资源",
-    "chg": 0.97
-   },
-   {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": 0.68
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": 0.46
+    "chg": 1.53
    },
    {
     "name": "中证1000ETF南方",
     "grp": "宽基",
-    "chg": 0.45
+    "chg": 1.1
    },
    {
     "name": "中证500ETF南方",
     "grp": "宽基",
-    "chg": 0.36
+    "chg": 1.0
    },
    {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": 0.31
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": 0.97
+   },
+   {
+    "name": "有色金属ETF南方",
+    "grp": "资源",
+    "chg": 0.41
+   },
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": 0.23
    },
    {
     "name": "恒生科技ETF华泰柏瑞",
@@ -149,60 +119,70 @@
     "chg": 0.2
    },
    {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": 0.13
-   },
-   {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": 0.01
-   },
-   {
-    "name": "证券ETF国泰",
-    "grp": "地产金融",
-    "chg": -0.1
-   },
-   {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": -0.14
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": -0.25
-   },
-   {
-    "name": "房地产ETF南方",
-    "grp": "地产金融",
-    "chg": -0.53
-   },
-   {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": -0.56
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -0.8
+    "name": "黄金ETF华安",
+    "grp": "商品",
+    "chg": 0.19
    },
    {
     "name": "新能源车ETF华夏",
     "grp": "制造",
-    "chg": -0.8
+    "chg": 0.15
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": 0.07
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": 0.0
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": -0.05
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -0.29
+   },
+   {
+    "name": "证券ETF国泰",
+    "grp": "地产金融",
+    "chg": -0.4
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": -0.48
+   },
+   {
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": -0.51
+   },
+   {
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": -0.71
+   },
+   {
+    "name": "煤炭ETF国泰",
+    "grp": "资源",
+    "chg": -2.07
    }
   ],
-  "median": 0.31,
-  "spread": 4.14,
+  "median": 0.19,
+  "spread": 4.78,
   "strong": [
-   "煤炭ETF国泰",
-   3.34
+   "纳指ETF国泰",
+   2.71
   ],
   "weak": [
-   "新能源车ETF华夏",
-   -0.8
+   "煤炭ETF国泰",
+   -2.07
   ]
  },
  "reach": [
@@ -224,10 +204,11 @@
  ],
  "errors": {
   "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
+  "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:taiwan": "URLError:<urlopen error _ssl.c:994: The handshake operation timed out>",
   "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
