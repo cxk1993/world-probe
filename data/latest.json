@@ -1,83 +1,108 @@
 {
- "ts": "2026-11-11T02:57:00Z",
+ "ts": "2026-11-12T04:04:04Z",
  "gdelt": {
   "tsmc": {
-   "now": 0.1361,
-   "ref": 0.165,
-   "chg_pct": -17.5,
-   "points": 22,
-   "asof": "20261111T000000Z"
+   "now": 0.144,
+   "ref": 0.0502,
+   "chg_pct": 186.9,
+   "points": 23,
+   "asof": "20261112T000000Z"
+  },
+  "semis": {
+   "now": 1.1208,
+   "ref": 0.4085,
+   "chg_pct": 174.4,
+   "points": 23,
+   "asof": "20261112T000000Z"
   },
   "ceasefire": {
-   "now": 0.3306,
-   "ref": 0.5005,
-   "chg_pct": -33.9,
-   "points": 22,
-   "asof": "20261111T000000Z"
+   "now": 0.3496,
+   "ref": 0.3215,
+   "chg_pct": 8.7,
+   "points": 23,
+   "asof": "20261112T000000Z"
+  },
+  "dedollar": {
+   "now": 0,
+   "ref": 0,
+   "chg_pct": null,
+   "points": 23,
+   "asof": "20261112T000000Z"
+  },
+  "taiwan": {
+   "now": 3.2742,
+   "ref": 1.5471,
+   "chg_pct": 111.6,
+   "points": 23,
+   "asof": "20261112T000000Z"
   },
   "oil": {
-   "now": 0.2528,
-   "ref": 0.3946,
-   "chg_pct": -35.9,
-   "points": 22,
-   "asof": "20261111T000000Z"
+   "now": 0.3325,
+   "ref": 0.1206,
+   "chg_pct": 175.7,
+   "points": 23,
+   "asof": "20261112T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 38,
+   "count": 29,
    "titles": [
-    "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-    "US Army soldier suspected of spying for Russia arrested in UK",
-    "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-    "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-    "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-    "Headquarters of Haitian gang destroyed, El Salvador's president says",
-    "Anti-homosexuality laws in Trinidad and Tobago overturned",
-    "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-    "Israel's new parliament sworn in as leaders compete to form government",
-    "Spain's king and queen attend memorial service for rail crash victims",
-    "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-    "Board of Peace says Israel's aid response after Gaza floods 'insufficent'"
+    "Clashes erupt in Barcelona after thousands join Spain general strike",
+    "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "Survivor pulled from rubble of deadly building collapse in New York",
+    "Australian teen missing in bush for six days rescued alive",
+    "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+    "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+    "Famed ship SS United States sunk off coast of Florida",
+    "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+    "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+    "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "Four grizzly bears killed in Canada after fatal attack on mother and daughter"
    ]
   },
   "bbc_business": {
-   "count": 51,
+   "count": 56,
    "titles": [
-    "Poundland hopeful for last-minute rescue deal to stave off collapse",
-    "Stickers and building sets help drive toy sales ahead of Christmas rush",
+    "Some under-25s should get fewer benefits, Milburn review to say",
+    "Poundland set for more time to secure a rescue deal as emergency talks continue",
+    "Christmas toy rush being driven by squishies and building sets",
+    "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
     "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "From Paris to DC - why offices are being turned into apartments",
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
     "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "Robot vessels take on the dangerous work of mine hunting",
     "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
     "US inflation higher than expected in October - here's what is happening with prices",
     "I took Vinted to court to get my money back",
-    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-    "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-    "The superpower battle over energy – and what it means for your bills"
+    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Protesters throw milk at Joe Biden during Hunter event in Dublin",
-    "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
-    "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
-    "Republicans block Hegseth impeachment motion",
-    "Tigray displaced families fear renewed war as hopes of returning home fade",
-    "Spain holds state funeral for 69 victims of deadly train crash",
-    "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
-    "Iran war live: US House blocks Hegseth impeachment efforts",
-    "Fire contained on platform in Iran’s South Pars gas field",
-    "Massive fire as Israeli settlers burn down business near Nablus",
-    "French far-right author Zemmour launches second bid for 2027 presidency",
-    "Russia expels Moldovan diplomat in tit-for-tat move"
+    "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+    "Building collapse in Brooklyn kills two, injures more than a dozen",
+    "Mother reunites with sons taken under Pinochet regime 40 years ago",
+    "Indonesian VP resigns over education qualification row",
+    "Argentina’s Milei cries as he bids farewell to the Pope",
+    "Three-storey building collapses in Brooklyn",
+    "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
+    "Israel strikes intensive care at Gaza’s Nasser Hospital",
+    "Former Italian Red Brigades member escapes house arrest in Argentina",
+    "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+    "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+    "Why the US, Mexico and Guatemala may lose their measles-free status"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+    "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+    "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
+    "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
     "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
     "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
     "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
@@ -85,70 +110,91 @@
     "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
     "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
     "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
-    "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
-    "Climate crisis could push 141 million more women into extreme poverty",
-    "At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
-    "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
-    "Children among the dead as heavy rains flood tents and shelters in Gaza"
+    "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm"
    ]
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "日经ETF华夏",
-    "grp": "跨境",
-    "chg": 0.58
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": 2.6
    },
    {
     "name": "人工智能ETF易方达",
     "grp": "科技",
-    "chg": 0.36
+    "chg": 1.18
    },
    {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": 0.34
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": 0.78
    },
    {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": 0.14
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": 0.58
    },
    {
-    "name": "中证1000ETF南方",
+    "name": "上证50ETF华夏",
     "grp": "宽基",
-    "chg": 0.07
-   },
-   {
-    "name": "煤炭ETF国泰",
-    "grp": "资源",
-    "chg": 0.0
+    "chg": 0.56
    },
    {
     "name": "房地产ETF南方",
     "grp": "地产金融",
-    "chg": 0.0
+    "chg": 0.35
    },
    {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": -0.01
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": 0.26
    },
    {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": -0.06
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": 0.14
    },
    {
     "name": "沪深300ETF华泰柏瑞",
     "grp": "宽基",
-    "chg": -0.34
+    "chg": 0.07
    },
    {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": -0.51
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": 0.07
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": 0.04
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": 0.0
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": -0.04
+   },
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": -0.23
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": -0.33
+   },
+   {
+    "name": "证券ETF国泰",
+    "grp": "地产金融",
+    "chg": -0.4
    },
    {
     "name": "新能源车ETF华夏",
@@ -156,60 +202,35 @@
     "chg": -0.52
    },
    {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": -0.59
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": -0.78
-   },
-   {
     "name": "有色金属ETF南方",
     "grp": "资源",
-    "chg": -1.17
+    "chg": -1.24
    },
    {
-    "name": "证券ETF国泰",
-    "grp": "地产金融",
-    "chg": -1.19
+    "name": "煤炭ETF国泰",
+    "grp": "资源",
+    "chg": -1.26
    },
    {
     "name": "恒生科技ETF华泰柏瑞",
     "grp": "跨境",
-    "chg": -1.39
-   },
-   {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": -1.43
+    "chg": -1.81
    },
    {
     "name": "黄金ETF华安",
     "grp": "商品",
-    "chg": -1.69
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": -2.06
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -2.3
+    "chg": -2.0
    }
   ],
-  "median": -0.51,
-  "spread": 2.88,
+  "median": 0.04,
+  "spread": 4.6,
   "strong": [
-   "日经ETF华夏",
-   0.58
+   "半导体ETF国联安",
+   2.6
   ],
   "weak": [
-   "光伏ETF华泰柏瑞",
-   -2.3
+   "黄金ETF华安",
+   -2.0
   ]
  },
  "reach": [
@@ -230,10 +251,7 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
+  "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
