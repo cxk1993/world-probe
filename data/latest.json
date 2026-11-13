@@ -1,150 +1,129 @@
 {
- "ts": "2026-11-12T04:04:04Z",
+ "ts": "2026-11-13T03:31:50Z",
  "gdelt": {
   "tsmc": {
-   "now": 0.144,
+   "now": 0.1336,
    "ref": 0.0502,
-   "chg_pct": 186.9,
-   "points": 23,
-   "asof": "20261112T000000Z"
-  },
-  "semis": {
-   "now": 1.1208,
-   "ref": 0.4085,
-   "chg_pct": 174.4,
+   "chg_pct": 166.1,
    "points": 23,
    "asof": "20261112T000000Z"
   },
   "ceasefire": {
-   "now": 0.3496,
+   "now": 0.2994,
    "ref": 0.3215,
-   "chg_pct": 8.7,
-   "points": 23,
-   "asof": "20261112T000000Z"
-  },
-  "dedollar": {
-   "now": 0,
-   "ref": 0,
-   "chg_pct": null,
+   "chg_pct": -6.9,
    "points": 23,
    "asof": "20261112T000000Z"
   },
   "taiwan": {
-   "now": 3.2742,
+   "now": 3.4136,
    "ref": 1.5471,
-   "chg_pct": 111.6,
-   "points": 23,
-   "asof": "20261112T000000Z"
-  },
-  "oil": {
-   "now": 0.3325,
-   "ref": 0.1206,
-   "chg_pct": 175.7,
+   "chg_pct": 120.6,
    "points": 23,
    "asof": "20261112T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 29,
+   "count": 34,
    "titles": [
-    "Clashes erupt in Barcelona after thousands join Spain general strike",
-    "Democrat Scott Colom seals historic win in Mississippi Senate race",
-    "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-    "Survivor pulled from rubble of deadly building collapse in New York",
-    "Australian teen missing in bush for six days rescued alive",
-    "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-    "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-    "Famed ship SS United States sunk off coast of Florida",
-    "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-    "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-    "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-    "Four grizzly bears killed in Canada after fatal attack on mother and daughter"
+    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "Australian footballers will not be charged after hotel incident, police say",
+    "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+    "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+    "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "Five new miniature frog species found in eastern Himalayas",
+    "Oranges investigated after four girls die in suspected Uganda school poisoning"
    ]
   },
   "bbc_business": {
-   "count": 56,
+   "count": 59,
    "titles": [
+    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "UK economy grows at fastest rate for more than two years",
+    "Poundland gets more time to secure a rescue deal as emergency talks continue",
     "Some under-25s should get fewer benefits, Milburn review to say",
-    "Poundland set for more time to secure a rescue deal as emergency talks continue",
     "Christmas toy rush being driven by squishies and building sets",
-    "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
     "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    "From Paris to DC - why offices are being turned into apartments",
     "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "US inflation higher than expected in October - here's what is happening with prices",
-    "I took Vinted to court to get my money back",
-    "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security"
+    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-    "Building collapse in Brooklyn kills two, injures more than a dozen",
-    "Mother reunites with sons taken under Pinochet regime 40 years ago",
-    "Indonesian VP resigns over education qualification row",
-    "Argentina’s Milei cries as he bids farewell to the Pope",
-    "Three-storey building collapses in Brooklyn",
-    "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
-    "Israel strikes intensive care at Gaza’s Nasser Hospital",
-    "Former Italian Red Brigades member escapes house arrest in Argentina",
-    "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
-    "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-    "Why the US, Mexico and Guatemala may lose their measles-free status"
+    "Mississippi elects first black senator in nearly 150 years",
+    "Iran says it targeted US radar site in Bahrain",
+    "Gaza surgeon films aftermath of Israeli strike",
+    "Spanish court suspends far-right group over alleged hate crimes",
+    "Chris Van Hollen launches bid to lead Democrats in US Senate",
+    "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+    "Trump moots toppling Cuba authorities before leaving office",
+    "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+    "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+    "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+    "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+    "Russian court jails rights lawyer for 12 years on treason charge"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+    "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+    "New platform aims to get money moving before disaster strikes",
+    "COP31: Cities rise up the climate agenda as leaders face demands for action",
+    "Kenya begins countdown towards end of Ebola after last patient discharged",
+    "Haiti: More than 1,000 killed between July and September, UN report reveals",
     "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
     "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
     "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
-    "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+    "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
     "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
-    "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
-    "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
-    "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
-    "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-    "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-    "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
-    "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm"
+    "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo"
    ]
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": 2.6
-   },
-   {
-    "name": "人工智能ETF易方达",
-    "grp": "科技",
-    "chg": 1.18
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": 0.78
-   },
-   {
     "name": "消费ETF汇添富",
     "grp": "防御",
-    "chg": 0.58
+    "chg": 1.45
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": 1.35
+   },
+   {
+    "name": "煤炭ETF国泰",
+    "grp": "资源",
+    "chg": 1.2
+   },
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": 1.13
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": 0.54
    },
    {
     "name": "上证50ETF华夏",
     "grp": "宽基",
-    "chg": 0.56
-   },
-   {
-    "name": "房地产ETF南方",
-    "grp": "地产金融",
-    "chg": 0.35
+    "chg": 0.42
    },
    {
     "name": "医药ETF易方达",
@@ -152,85 +131,85 @@
     "chg": 0.26
    },
    {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": 0.14
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": 0.07
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": 0.07
-   },
-   {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": 0.04
-   },
-   {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": 0.0
-   },
-   {
-    "name": "中证1000ETF南方",
-    "grp": "宽基",
-    "chg": -0.04
-   },
-   {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": -0.23
-   },
-   {
-    "name": "日经ETF华夏",
-    "grp": "跨境",
-    "chg": -0.33
-   },
-   {
     "name": "证券ETF国泰",
     "grp": "地产金融",
-    "chg": -0.4
+    "chg": 0.2
    },
    {
     "name": "新能源车ETF华夏",
     "grp": "制造",
-    "chg": -0.52
+    "chg": 0.08
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": 0.02
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": -0.04
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -0.1
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -0.11
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -0.25
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": -0.26
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -0.35
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
+    "chg": -0.42
    },
    {
     "name": "有色金属ETF南方",
     "grp": "资源",
-    "chg": -1.24
+    "chg": -0.57
    },
    {
-    "name": "煤炭ETF国泰",
-    "grp": "资源",
-    "chg": -1.26
-   },
-   {
-    "name": "恒生科技ETF华泰柏瑞",
-    "grp": "跨境",
-    "chg": -1.81
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -0.97
    },
    {
     "name": "黄金ETF华安",
     "grp": "商品",
-    "chg": -2.0
+    "chg": -1.05
+   },
+   {
+    "name": "恒生科技ETF华泰柏瑞",
+    "grp": "跨境",
+    "chg": -1.24
    }
   ],
-  "median": 0.04,
-  "spread": 4.6,
+  "median": -0.04,
+  "spread": 2.69,
   "strong": [
-   "半导体ETF国联安",
-   2.6
+   "消费ETF汇添富",
+   1.45
   ],
   "weak": [
-   "黄金ETF华安",
-   -2.0
+   "恒生科技ETF华泰柏瑞",
+   -1.24
   ]
  },
  "reach": [
@@ -252,6 +231,9 @@
  ],
  "errors": {
   "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
-  "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }

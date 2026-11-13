@@ -4,3 +4,4 @@
 {"ts": "2026-11-10T04:45:28Z", "gdelt": {"taiwan": 2.8419}, "rss_count": {"bbc_world": 31, "bbc_business": 55, "aljazeera": 25, "un_news": 0}}
 {"ts": "2026-11-11T02:57:00Z", "gdelt": {"tsmc": 0.1361, "ceasefire": 0.3306, "oil": 0.2528}, "rss_count": {"bbc_world": 38, "bbc_business": 51, "aljazeera": 25, "un_news": 30}}
 {"ts": "2026-11-12T04:04:04Z", "gdelt": {"tsmc": 0.144, "semis": 1.1208, "ceasefire": 0.3496, "dedollar": 0, "taiwan": 3.2742, "oil": 0.3325}, "rss_count": {"bbc_world": 29, "bbc_business": 56, "aljazeera": 25, "un_news": 30}}
+{"ts": "2026-11-13T03:31:50Z", "gdelt": {"tsmc": 0.1336, "ceasefire": 0.2994, "taiwan": 3.4136}, "rss_count": {"bbc_world": 34, "bbc_business": 59, "aljazeera": 25, "un_news": 30}}
