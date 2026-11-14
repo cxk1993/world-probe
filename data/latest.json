@@ -1,95 +1,88 @@
 {
- "ts": "2026-11-13T03:31:50Z",
+ "ts": "2026-11-14T03:29:18Z",
  "gdelt": {
   "tsmc": {
    "now": 0.1336,
    "ref": 0.0502,
    "chg_pct": 166.1,
-   "points": 23,
+   "points": 22,
    "asof": "20261112T000000Z"
   },
-  "ceasefire": {
-   "now": 0.2994,
-   "ref": 0.3215,
-   "chg_pct": -6.9,
-   "points": 23,
-   "asof": "20261112T000000Z"
-  },
-  "taiwan": {
-   "now": 3.4136,
-   "ref": 1.5471,
-   "chg_pct": 120.6,
-   "points": 23,
+  "ai": {
+   "now": 3.2524,
+   "ref": 2.6522,
+   "chg_pct": 22.6,
+   "points": 22,
    "asof": "20261112T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 34,
+   "count": 26,
    "titles": [
-    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-    "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-    "Russian warship hit by Ukrainian drone in Gulf of Finland",
-    "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "Australian footballers will not be charged after hotel incident, police say",
-    "Hegseth awards medal to war memorial guard who reprimanded him and group",
-    "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-    "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-    "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "Five new miniature frog species found in eastern Himalayas",
-    "Oranges investigated after four girls die in suspected Uganda school poisoning"
+    "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+    "Why is Microsoft's outage lasting so long and will emails be lost?",
+    "Watch: How a server outage took down Microsoft Teams and Outlook",
+    "Setback for SpaceX Starship rocket's double-catch test",
+    "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+    "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "The Peruvian city that has embraced Pope Leo as one of its own",
+    "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "Democratic Senate leader Schumer set to face leadership challenge",
+    "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "Rosalía scoops historic third best album award at Latin Grammys"
    ]
   },
   "bbc_business": {
-   "count": 59,
+   "count": 56,
    "titles": [
-    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-    "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+    "Why is Microsoft's outage lasting so long and will emails be lost?",
+    "How a sex scandal at Nvidia is putting pressure on the White House",
+    "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
     "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "Heat pumps: How much heat does your home really need?",
+    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "Burnham says 'win-win' deal can be agreed between UK and EU",
     "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
     "Faisal Islam: Why the UK economy is surprisingly resilient",
     "UK economy grows at fastest rate for more than two years",
-    "Poundland gets more time to secure a rescue deal as emergency talks continue",
-    "Some under-25s should get fewer benefits, Milburn review to say",
-    "Christmas toy rush being driven by squishies and building sets",
-    "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-    "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch"
+    "Poundland gets more time to secure a rescue deal as emergency talks continue"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Mississippi elects first black senator in nearly 150 years",
-    "Iran says it targeted US radar site in Bahrain",
-    "Gaza surgeon films aftermath of Israeli strike",
-    "Spanish court suspends far-right group over alleged hate crimes",
-    "Chris Van Hollen launches bid to lead Democrats in US Senate",
-    "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-    "Trump moots toppling Cuba authorities before leaving office",
-    "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
-    "Albania’s PM says 2027 NATO summit will not be held in Tirana",
-    "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-    "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-    "Russian court jails rights lawyer for 12 years on treason charge"
+    "Measles-associated deaths reach 10 in US after two more deaths reported",
+    "Tanker collision leaves riverboat passengers clinging to railings",
+    "Former FAA official says ‘nobody really knows what is going on’",
+    "UK police open sex offence probe into comedian and author David Walliams",
+    "Microsoft services begin recovering after global outage",
+    "Afghanistan’s new road to China ends at a closed border",
+    "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+    "FAA grounds all fights across the US over ‘telecommunication outage’",
+    "32 passengers taken to hospital after tanker hits river cruise boat in US",
+    "LIVE: FAA reopens airspace after ground stop blamed on ‘outdated equipment’",
+    "US flights resume after FAA lifts hours-long nationwide ground stop",
+    "Pope Leo cheered on return to Peru city where he served as bishop"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+    "COP31: Climate finance falls short as calls grow for polluters to pay",
+    "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+    "COP31: New initiative targets AI and reliable climate change information",
+    "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
     "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
     "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
     "New platform aims to get money moving before disaster strikes",
     "COP31: Cities rise up the climate agenda as leaders face demands for action",
     "Kenya begins countdown towards end of Ebola after last patient discharged",
     "Haiti: More than 1,000 killed between July and September, UN report reveals",
-    "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-    "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
-    "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
-    "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
-    "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
-    "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo"
+    "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support"
    ]
   }
  },
@@ -98,22 +91,17 @@
    {
     "name": "消费ETF汇添富",
     "grp": "防御",
-    "chg": 1.45
-   },
-   {
-    "name": "日经ETF华夏",
-    "grp": "跨境",
-    "chg": 1.35
-   },
-   {
-    "name": "煤炭ETF国泰",
-    "grp": "资源",
-    "chg": 1.2
+    "chg": 1.74
    },
    {
     "name": "银行ETF华宝",
     "grp": "地产金融",
-    "chg": 1.13
+    "chg": 1.36
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": 0.77
    },
    {
     "name": "纳指ETF国泰",
@@ -121,95 +109,100 @@
     "chg": 0.54
    },
    {
+    "name": "煤炭ETF国泰",
+    "grp": "资源",
+    "chg": 0.51
+   },
+   {
     "name": "上证50ETF华夏",
     "grp": "宽基",
-    "chg": 0.42
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": 0.26
-   },
-   {
-    "name": "证券ETF国泰",
-    "grp": "地产金融",
-    "chg": 0.2
-   },
-   {
-    "name": "新能源车ETF华夏",
-    "grp": "制造",
-    "chg": 0.08
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": 0.02
+    "chg": 0.17
    },
    {
     "name": "十年国债ETF国泰",
     "grp": "债券",
-    "chg": -0.04
+    "chg": -0.06
    },
    {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": -0.1
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": -0.11
-   },
-   {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": -0.25
-   },
-   {
-    "name": "中证1000ETF南方",
-    "grp": "宽基",
-    "chg": -0.26
-   },
-   {
-    "name": "房地产ETF南方",
+    "name": "证券ETF国泰",
     "grp": "地产金融",
-    "chg": -0.35
+    "chg": -0.51
    },
    {
-    "name": "人工智能ETF易方达",
-    "grp": "科技",
-    "chg": -0.42
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": -0.52
    },
    {
-    "name": "有色金属ETF南方",
-    "grp": "资源",
-    "chg": -0.57
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -0.97
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": -0.75
    },
    {
     "name": "黄金ETF华安",
     "grp": "商品",
-    "chg": -1.05
+    "chg": -1.62
+   },
+   {
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -1.82
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -2.01
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
+    "chg": -2.03
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -2.05
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -2.21
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -2.46
    },
    {
     "name": "恒生科技ETF华泰柏瑞",
     "grp": "跨境",
-    "chg": -1.24
+    "chg": -2.48
+   },
+   {
+    "name": "有色金属ETF南方",
+    "grp": "资源",
+    "chg": -2.55
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": -2.82
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -3.06
    }
   ],
-  "median": -0.04,
-  "spread": 2.69,
+  "median": -1.62,
+  "spread": 4.8,
   "strong": [
    "消费ETF汇添富",
-   1.45
+   1.74
   ],
   "weak": [
-   "恒生科技ETF华泰柏瑞",
-   -1.24
+   "光伏ETF华泰柏瑞",
+   -3.06
   ]
  },
  "reach": [
@@ -230,10 +223,11 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
-  "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
