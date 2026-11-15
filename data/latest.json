@@ -1,45 +1,53 @@
 {
- "ts": "2026-11-14T03:29:18Z",
+ "ts": "2026-11-15T02:58:53Z",
  "gdelt": {
   "tsmc": {
-   "now": 0.1336,
-   "ref": 0.0502,
-   "chg_pct": 166.1,
-   "points": 22,
-   "asof": "20261112T000000Z"
+   "now": 0,
+   "ref": 0.1568,
+   "chg_pct": -100.0,
+   "points": 23,
+   "asof": "20261114T000000Z"
   },
-  "ai": {
-   "now": 3.2524,
-   "ref": 2.6522,
-   "chg_pct": 22.6,
-   "points": 22,
-   "asof": "20261112T000000Z"
+  "dedollar": {
+   "now": 0,
+   "ref": 0.0075,
+   "chg_pct": -100.0,
+   "points": 23,
+   "asof": "20261114T000000Z"
+  },
+  "oil": {
+   "now": 0.0497,
+   "ref": 0.2016,
+   "chg_pct": -75.3,
+   "points": 23,
+   "asof": "20261114T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 26,
+   "count": 23,
    "titles": [
+    "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "Italy fines Meta €805m over accessing users' photos",
+    "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "Philippines wins first Eurovision Song Contest Asia",
+    "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+    "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+    "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+    "Hungarian authorities uncover $20m during probe of Orbán-era minister",
     "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-    "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-    "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "Watch: How a server outage took down Microsoft Teams and Outlook",
-    "Setback for SpaceX Starship rocket's double-catch test",
-    "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-    "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-    "The Peruvian city that has embraced Pope Leo as one of its own",
-    "German spies handed new powers to tackle 'hybrid threats' from abroad",
-    "Democratic Senate leader Schumer set to face leadership challenge",
-    "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-    "Rosalía scoops historic third best album award at Latin Grammys"
+    "Microsoft says services fully restored after day-long global outage"
    ]
   },
   "bbc_business": {
-   "count": 56,
+   "count": 57,
    "titles": [
-    "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+    "Beauty advent calendars can cost hundreds - but are they value for money?",
+    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "Microsoft says services fully restored after day-long global outage",
     "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "How a sex scandal at Nvidia is putting pressure on the White House",
     "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
     "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
     "Heat pumps: How much heat does your home really need?",
@@ -47,30 +55,31 @@
     "Burnham says 'win-win' deal can be agreed between UK and EU",
     "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
     "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "UK economy grows at fastest rate for more than two years",
-    "Poundland gets more time to secure a rescue deal as emergency talks continue"
+    "UK economy grows at fastest rate for more than two years"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Measles-associated deaths reach 10 in US after two more deaths reported",
-    "Tanker collision leaves riverboat passengers clinging to railings",
-    "Former FAA official says ‘nobody really knows what is going on’",
-    "UK police open sex offence probe into comedian and author David Walliams",
-    "Microsoft services begin recovering after global outage",
-    "Afghanistan’s new road to China ends at a closed border",
-    "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-    "FAA grounds all fights across the US over ‘telecommunication outage’",
-    "32 passengers taken to hospital after tanker hits river cruise boat in US",
-    "LIVE: FAA reopens airspace after ground stop blamed on ‘outdated equipment’",
-    "US flights resume after FAA lifts hours-long nationwide ground stop",
-    "Pope Leo cheered on return to Peru city where he served as bishop"
+    "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+    "Netanyahu sends plea to Eisenkot for unity government",
+    "Thailand’s elderly kept in cages",
+    "SpaceX’s Starship nails a smooth return with historic catch",
+    "Israeli air strike kills senior Hamas commander in Gaza",
+    "Hundreds of men march in Switzerland to protest violence against women",
+    "SpaceX’s Starship captured by launchpad arms in dramatic first",
+    "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+    "Portugal immortalises Ronaldo with a new number 7",
+    "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+    "Netanyahu says only a unity government can guarantee Israel’s security",
+    "Explosion near Syria’s capital kills father and child"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "When the rains fail: Preparing for drought in Central America",
+    "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
     "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
     "COP31: Climate finance falls short as calls grow for polluters to pay",
     "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
@@ -80,9 +89,7 @@
     "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
     "New platform aims to get money moving before disaster strikes",
     "COP31: Cities rise up the climate agenda as leaders face demands for action",
-    "Kenya begins countdown towards end of Ebola after last patient discharged",
-    "Haiti: More than 1,000 killed between July and September, UN report reveals",
-    "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support"
+    "Kenya begins countdown towards end of Ebola after last patient discharged"
    ]
   }
  },
@@ -208,8 +215,8 @@
  "reach": [
   {
    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=test&mode=artlist&maxrecords=1&format=json",
-   "status": 429,
-   "err": "http"
+   "status": 200,
+   "bytes": 379
   },
   {
    "url": "https://worldmonitor.app/llms.txt",
@@ -223,11 +230,10 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
+  "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
