@@ -1,139 +1,126 @@
 {
- "ts": "2026-11-15T02:58:53Z",
+ "ts": "2026-11-16T02:59:03Z",
  "gdelt": {
   "tsmc": {
-   "now": 0,
-   "ref": 0.1568,
-   "chg_pct": -100.0,
+   "now": 0.055,
+   "ref": 0.0995,
+   "chg_pct": -44.7,
    "points": 23,
-   "asof": "20261114T000000Z"
+   "asof": "20261115T000000Z"
   },
-  "dedollar": {
-   "now": 0,
-   "ref": 0.0075,
-   "chg_pct": -100.0,
+  "ai": {
+   "now": 3.0786,
+   "ref": 3.9082,
+   "chg_pct": -21.2,
    "points": 23,
-   "asof": "20261114T000000Z"
+   "asof": "20261115T000000Z"
   },
   "oil": {
-   "now": 0.0497,
-   "ref": 0.2016,
-   "chg_pct": -75.3,
+   "now": 0.11,
+   "ref": 0.3463,
+   "chg_pct": -68.2,
    "points": 23,
-   "asof": "20261114T000000Z"
+   "asof": "20261115T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 23,
+   "count": 20,
    "titles": [
-    "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-    "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "Italy fines Meta €805m over accessing users' photos",
-    "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-    "Philippines wins first Eurovision Song Contest Asia",
-    "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-    "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-    "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-    "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-    "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-    "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-    "Microsoft says services fully restored after day-long global outage"
+    "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "Australian MP who lost both legs in alleged car attack discharged from hospital",
+    "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+    "Prince Harry praises war veterans on surprise visit to Ukraine",
+    "South Korea's top scorer in tax accountancy exam admits cheating",
+    "Pope Leo rides in helicopter cockpit during Peru trip",
+    "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+    "Czechs rally against plan to switch funding of public media",
+    "Police ban protests near 10 schools and five universities in Paris",
+    "Three men sentenced to death in Jordan over fatal church mass shooting",
+    "Clothing factories shut in Bangladesh as workers strike over pay"
    ]
   },
   "bbc_business": {
    "count": 57,
    "titles": [
-    "Beauty advent calendars can cost hundreds - but are they value for money?",
+    "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+    "Cut national insurance for under-25s to create jobs, Milburn report to say",
+    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "Black Friday and tax return scams  - don't fall for these",
+    "Minister backs legal right to job support for young people",
+    "Beauty advent calendars can cost hundreds but are they value for money?",
     "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "Microsoft says services fully restored after day-long global outage",
     "Why is Microsoft's outage lasting so long and will emails be lost?",
     "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-    "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-    "Heat pumps: How much heat does your home really need?",
     "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "Burnham says 'win-win' deal can be agreed between UK and EU",
-    "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-    "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "UK economy grows at fastest rate for more than two years"
+    "Burnham says 'win-win' deal can be agreed between UK and EU"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-    "Netanyahu sends plea to Eisenkot for unity government",
-    "Thailand’s elderly kept in cages",
-    "SpaceX’s Starship nails a smooth return with historic catch",
-    "Israeli air strike kills senior Hamas commander in Gaza",
-    "Hundreds of men march in Switzerland to protest violence against women",
-    "SpaceX’s Starship captured by launchpad arms in dramatic first",
-    "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-    "Portugal immortalises Ronaldo with a new number 7",
-    "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-    "Netanyahu says only a unity government can guarantee Israel’s security",
-    "Explosion near Syria’s capital kills father and child"
+    "ASEAN, China fall short of agreeing on South China Sea code",
+    "Houthis advance in Yemen as government forces move to defend Aden",
+    "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+    "Pope urges end to Amazon deforestation",
+    "Founder of Guadalajara cartel dies in hospital after decades in prison",
+    "After a nationwide ground stop, US faces aviation infrastructure questions",
+    "Czechs rally against gov’t threat to media independence",
+    "Zambia’s copper boom attracts billions in investment, but who benefits?",
+    "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+    "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+    "Brawl erupts in Brazil’s Women’s League final",
+    "England stun Spain to end La Roja’s 43-game unbeaten run"
    ]
   },
   "un_news": {
-   "count": 30,
-   "titles": [
-    "When the rains fail: Preparing for drought in Central America",
-    "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-    "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-    "COP31: Climate finance falls short as calls grow for polluters to pay",
-    "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
-    "COP31: New initiative targets AI and reliable climate change information",
-    "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-    "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
-    "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
-    "New platform aims to get money moving before disaster strikes",
-    "COP31: Cities rise up the climate agenda as leaders face demands for action",
-    "Kenya begins countdown towards end of Ebola after last patient discharged"
-   ]
+   "count": 0,
+   "titles": []
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": 1.74
-   },
-   {
     "name": "银行ETF华宝",
     "grp": "地产金融",
-    "chg": 1.36
-   },
-   {
-    "name": "日经ETF华夏",
-    "grp": "跨境",
-    "chg": 0.77
-   },
-   {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": 0.54
+    "chg": 1.34
    },
    {
     "name": "煤炭ETF国泰",
     "grp": "资源",
-    "chg": 0.51
+    "chg": 0.76
    },
    {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": 0.17
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": 0.43
    },
    {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": -0.06
+    "name": "恒生科技ETF华泰柏瑞",
+    "grp": "跨境",
+    "chg": 0.21
    },
    {
     "name": "证券ETF国泰",
     "grp": "地产金融",
-    "chg": -0.51
+    "chg": 0.2
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": -0.21
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": -0.28
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": -0.49
    },
    {
     "name": "医药ETF易方达",
@@ -141,82 +128,82 @@
     "chg": -0.52
    },
    {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": -0.75
-   },
-   {
     "name": "黄金ETF华安",
     "grp": "商品",
-    "chg": -1.62
-   },
-   {
-    "name": "新能源车ETF华夏",
-    "grp": "制造",
-    "chg": -1.82
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": -2.01
-   },
-   {
-    "name": "人工智能ETF易方达",
-    "grp": "科技",
-    "chg": -2.03
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": -2.05
+    "chg": -0.59
    },
    {
     "name": "房地产ETF南方",
     "grp": "地产金融",
-    "chg": -2.21
+    "chg": -0.72
    },
    {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": -2.46
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -0.85
    },
    {
-    "name": "恒生科技ETF华泰柏瑞",
+    "name": "纳指ETF国泰",
     "grp": "跨境",
-    "chg": -2.48
+    "chg": -1.12
    },
    {
-    "name": "有色金属ETF南方",
-    "grp": "资源",
-    "chg": -2.55
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -1.62
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": -1.63
    },
    {
     "name": "中证1000ETF南方",
     "grp": "宽基",
-    "chg": -2.82
+    "chg": -1.9
+   },
+   {
+    "name": "有色金属ETF南方",
+    "grp": "资源",
+    "chg": -2.11
    },
    {
     "name": "光伏ETF华泰柏瑞",
     "grp": "制造",
-    "chg": -3.06
+    "chg": -2.44
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -2.5
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
+    "chg": -3.43
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -3.78
    }
   ],
-  "median": -1.62,
-  "spread": 4.8,
+  "median": -0.72,
+  "spread": 5.12,
   "strong": [
-   "消费ETF汇添富",
-   1.74
+   "银行ETF华宝",
+   1.34
   ],
   "weak": [
-   "光伏ETF华泰柏瑞",
-   -3.06
+   "半导体ETF国联安",
+   -3.78
   ]
  },
  "reach": [
   {
    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=test&mode=artlist&maxrecords=1&format=json",
-   "status": 200,
-   "bytes": 379
+   "status": 429,
+   "err": "http"
   },
   {
    "url": "https://worldmonitor.app/llms.txt",
@@ -231,9 +218,9 @@
  ],
  "errors": {
   "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
-  "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
