@@ -1,78 +1,78 @@
 {
- "ts": "2026-11-16T02:59:03Z",
+ "ts": "2026-11-17T05:12:31Z",
  "gdelt": {
-  "tsmc": {
-   "now": 0.055,
-   "ref": 0.0995,
-   "chg_pct": -44.7,
-   "points": 23,
-   "asof": "20261115T000000Z"
-  },
   "ai": {
    "now": 3.0786,
    "ref": 3.9082,
    "chg_pct": -21.2,
-   "points": 23,
+   "points": 22,
+   "asof": "20261115T000000Z"
+  },
+  "ceasefire": {
+   "now": 0.3299,
+   "ref": 0.2763,
+   "chg_pct": 19.4,
+   "points": 22,
    "asof": "20261115T000000Z"
   },
   "oil": {
    "now": 0.11,
    "ref": 0.3463,
    "chg_pct": -68.2,
-   "points": 23,
+   "points": 22,
    "asof": "20261115T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 20,
+   "count": 21,
    "titles": [
-    "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "Australian MP who lost both legs in alleged car attack discharged from hospital",
-    "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-    "Prince Harry praises war veterans on surprise visit to Ukraine",
-    "South Korea's top scorer in tax accountancy exam admits cheating",
-    "Pope Leo rides in helicopter cockpit during Peru trip",
-    "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-    "Czechs rally against plan to switch funding of public media",
-    "Police ban protests near 10 schools and five universities in Paris",
-    "Three men sentenced to death in Jordan over fatal church mass shooting",
-    "Clothing factories shut in Bangladesh as workers strike over pay"
+    "Five EU countries announce migrant deportation centre in Rwanda",
+    "Houthi rebel advance in Yemen may further destabilise global economy",
+    "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+    "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+    "When will we see Robert Pattinson as Bond in cinemas?",
+    "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+    "Lindsay Clancy to face retrial next year for deaths of her three children",
+    "Two mass shootings in South Africa leave 17 dead",
+    "Gérard Depardieu drops appeal against sexual assault conviction",
+    "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+    "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+    "Estonia to close Russia border crossings after attempted drone factory arson attack"
    ]
   },
   "bbc_business": {
-   "count": 57,
+   "count": 56,
    "titles": [
-    "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-    "Cut national insurance for under-25s to create jobs, Milburn report to say",
-    "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "Black Friday and tax return scams  - don't fall for these",
-    "Minister backs legal right to job support for young people",
-    "Beauty advent calendars can cost hundreds but are they value for money?",
-    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "Microsoft says services fully restored after day-long global outage",
-    "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-    "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "Burnham says 'win-win' deal can be agreed between UK and EU"
+    "'Complete system reset' needed to get 440,000 young people into work, says major review",
+    "California sues OpenAI over Hugging Face attack",
+    "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+    "We couldn't afford a house alone, so we bought one with strangers",
+    "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+    "Create more jobs for under-25s by cutting National Insurance, key report urges",
+    "Customers report service outages at major US banks",
+    "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+    "Gas starts flowing from Jackdaw after government green light",
+    "Intel sued by investors after PC sales slump hits share price",
+    "Avoid this Black Friday scam - how to check it's a real deal",
+    "Beauty advent calendars can cost hundreds but are they value for money?"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "ASEAN, China fall short of agreeing on South China Sea code",
-    "Houthis advance in Yemen as government forces move to defend Aden",
-    "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-    "Pope urges end to Amazon deforestation",
-    "Founder of Guadalajara cartel dies in hospital after decades in prison",
-    "After a nationwide ground stop, US faces aviation infrastructure questions",
-    "Czechs rally against gov’t threat to media independence",
-    "Zambia’s copper boom attracts billions in investment, but who benefits?",
-    "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
-    "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-    "Brawl erupts in Brazil’s Women’s League final",
-    "England stun Spain to end La Roja’s 43-game unbeaten run"
+    "Gunfire erupts in occupied West Bank settler attack",
+    "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+    "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+    "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "EU countries announce migrant deportation centre in Rwanda",
+    "Ukraine holds peace talks with US, Europe as conflict escalates",
+    "UK seeks closer ties with EU after Brexit fail",
+    "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+    "Paraguay ex-president moved to military jail amid special treatment reports",
+    "Trump departs for ASEAN on summit with Xi and Putin"
    ]
   },
   "un_news": {
@@ -83,23 +83,38 @@
  "cn": {
   "rows": [
    {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": 1.34
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": 2.4
    },
    {
-    "name": "煤炭ETF国泰",
+    "name": "有色金属ETF南方",
     "grp": "资源",
-    "chg": 0.76
+    "chg": 0.9
    },
    {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": 0.43
+    "name": "黄金ETF华安",
+    "grp": "商品",
+    "chg": 0.79
    },
    {
-    "name": "恒生科技ETF华泰柏瑞",
-    "grp": "跨境",
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": 0.69
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": 0.28
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": 0.22
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
     "chg": 0.21
    },
    {
@@ -108,95 +123,80 @@
     "chg": 0.2
    },
    {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": -0.21
-   },
-   {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": -0.28
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": -0.49
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": -0.52
-   },
-   {
-    "name": "黄金ETF华安",
-    "grp": "商品",
-    "chg": -0.59
-   },
-   {
     "name": "房地产ETF南方",
     "grp": "地产金融",
-    "chg": -0.72
+    "chg": 0.18
    },
    {
     "name": "新能源车ETF华夏",
     "grp": "制造",
+    "chg": 0.0
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": -0.07
+   },
+   {
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": -0.14
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": -0.17
+   },
+   {
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": -0.26
+   },
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": -0.44
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
+    "chg": -0.53
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -0.74
+   },
+   {
+    "name": "恒生科技ETF华泰柏瑞",
+    "grp": "跨境",
     "chg": -0.85
    },
    {
     "name": "纳指ETF国泰",
     "grp": "跨境",
-    "chg": -1.12
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": -1.62
+    "chg": -0.91
    },
    {
     "name": "日经ETF华夏",
     "grp": "跨境",
-    "chg": -1.63
+    "chg": -1.13
    },
    {
-    "name": "中证1000ETF南方",
-    "grp": "宽基",
-    "chg": -1.9
-   },
-   {
-    "name": "有色金属ETF南方",
+    "name": "煤炭ETF国泰",
     "grp": "资源",
-    "chg": -2.11
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -2.44
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": -2.5
-   },
-   {
-    "name": "人工智能ETF易方达",
-    "grp": "科技",
-    "chg": -3.43
-   },
-   {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": -3.78
+    "chg": -1.93
    }
   ],
-  "median": -0.72,
-  "spread": 5.12,
+  "median": -0.07,
+  "spread": 4.33,
   "strong": [
-   "银行ETF华宝",
-   1.34
+   "半导体ETF国联安",
+   2.4
   ],
   "weak": [
-   "半导体ETF国联安",
-   -3.78
+   "煤炭ETF国泰",
+   -1.93
   ]
  },
  "reach": [
@@ -217,9 +217,9 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
+  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests"
  }
