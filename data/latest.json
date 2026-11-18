@@ -1,202 +1,236 @@
 {
- "ts": "2026-11-17T05:12:31Z",
+ "ts": "2026-11-18T04:39:39Z",
  "gdelt": {
+  "tsmc": {
+   "now": 0.055,
+   "ref": 0.0995,
+   "chg_pct": -44.7,
+   "points": 21,
+   "asof": "20261115T000000Z"
+  },
   "ai": {
    "now": 3.0786,
    "ref": 3.9082,
    "chg_pct": -21.2,
-   "points": 22,
+   "points": 21,
+   "asof": "20261115T000000Z"
+  },
+  "semis": {
+   "now": 0.1649,
+   "ref": 1.374,
+   "chg_pct": -88.0,
+   "points": 21,
    "asof": "20261115T000000Z"
   },
   "ceasefire": {
    "now": 0.3299,
    "ref": 0.2763,
    "chg_pct": 19.4,
-   "points": 22,
+   "points": 21,
+   "asof": "20261115T000000Z"
+  },
+  "taiwan": {
+   "now": 2.309,
+   "ref": 2.9026,
+   "chg_pct": -20.5,
+   "points": 21,
    "asof": "20261115T000000Z"
   },
   "oil": {
    "now": 0.11,
    "ref": 0.3463,
    "chg_pct": -68.2,
-   "points": 22,
+   "points": 21,
    "asof": "20261115T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 21,
+   "count": 28,
    "titles": [
-    "Five EU countries announce migrant deportation centre in Rwanda",
-    "Houthi rebel advance in Yemen may further destabilise global economy",
-    "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-    "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-    "When will we see Robert Pattinson as Bond in cinemas?",
-    "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-    "Lindsay Clancy to face retrial next year for deaths of her three children",
-    "Two mass shootings in South Africa leave 17 dead",
-    "Gérard Depardieu drops appeal against sexual assault conviction",
-    "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-    "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-    "Estonia to close Russia border crossings after attempted drone factory arson attack"
+    "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "How the attack on Crimean Bridge unfolded",
+    "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+    "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "Russian military plane crashes, killing all 19 on board",
+    "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "US loses measles elimination status after 26 years amid record case numbers",
+    "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "William and Kate celebrate Earthshot Prize winners in Mumbai",
+    "Trump in Asia ahead of talks with Russian and Chinese presidents",
+    "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed"
    ]
   },
   "bbc_business": {
-   "count": 56,
+   "count": 55,
    "titles": [
-    "'Complete system reset' needed to get 440,000 young people into work, says major review",
-    "California sues OpenAI over Hugging Face attack",
-    "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+    "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+    "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "Government backs welfare shake-up to prevent 'lost generation'",
+    "Waymo pulls driverless taxis from all US freeways",
+    "Europe plans to catch the next computer chip wave",
+    "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+    "Speed camera fault may have allowed drivers to escape fines",
+    "Where are the most jobs for 18-24 year-olds?",
+    "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
     "We couldn't afford a house alone, so we bought one with strangers",
-    "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-    "Create more jobs for under-25s by cutting National Insurance, key report urges",
-    "Customers report service outages at major US banks",
-    "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-    "Gas starts flowing from Jackdaw after government green light",
-    "Intel sued by investors after PC sales slump hits share price",
-    "Avoid this Black Friday scam - how to check it's a real deal",
-    "Beauty advent calendars can cost hundreds but are they value for money?"
+    "How new US chip restrictions on South East Asia will hit China"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Gunfire erupts in occupied West Bank settler attack",
-    "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-    "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-    "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-    "Irish court jails man for life over Dublin knife attack that sparked riots",
-    "EU countries announce migrant deportation centre in Rwanda",
-    "Ukraine holds peace talks with US, Europe as conflict escalates",
-    "UK seeks closer ties with EU after Brexit fail",
-    "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
-    "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-    "Paraguay ex-president moved to military jail amid special treatment reports",
-    "Trump departs for ASEAN on summit with Xi and Putin"
+    "Australia issues sanctions targeting Israeli settlers",
+    "Rubio rules out cyberattacks or links between tech outages",
+    "Mary Peltola flips Alaska Senate seat in another Democratic win",
+    "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+    "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+    "Hungary on the hunt for a football hero",
+    "ICE agents shove and pepper-spray pregnant woman",
+    "What is Trump hoping to achieve at APEC meeting in China?",
+    "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+    "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+    "Protests as Jason Arday’s accuser speaks at Oxford University",
+    "Board of Peace warns Gaza ceasefire faces imminent collapse without action"
    ]
   },
   "un_news": {
-   "count": 0,
-   "titles": []
+   "count": 30,
+   "titles": [
+    "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+    "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+    "COP31: The push to protect warming oceans reaches the negotiating table",
+    "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+    "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+    "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+    "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+    "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+    "Lebanon leading the way in mental health support",
+    "AI gets climate science right – until users push back",
+    "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+    "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace"
+   ]
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": 2.4
-   },
-   {
-    "name": "有色金属ETF南方",
+    "name": "煤炭ETF国泰",
     "grp": "资源",
-    "chg": 0.9
-   },
-   {
-    "name": "黄金ETF华安",
-    "grp": "商品",
-    "chg": 0.79
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": 0.69
-   },
-   {
-    "name": "中证1000ETF南方",
-    "grp": "宽基",
-    "chg": 0.28
-   },
-   {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": 0.22
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": 0.21
-   },
-   {
-    "name": "证券ETF国泰",
-    "grp": "地产金融",
-    "chg": 0.2
-   },
-   {
-    "name": "房地产ETF南方",
-    "grp": "地产金融",
-    "chg": 0.18
-   },
-   {
-    "name": "新能源车ETF华夏",
-    "grp": "制造",
-    "chg": 0.0
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": -0.07
-   },
-   {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": -0.14
-   },
-   {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": -0.17
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": -0.26
-   },
-   {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": -0.44
-   },
-   {
-    "name": "人工智能ETF易方达",
-    "grp": "科技",
-    "chg": -0.53
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -0.74
-   },
-   {
-    "name": "恒生科技ETF华泰柏瑞",
-    "grp": "跨境",
-    "chg": -0.85
+    "chg": 0.85
    },
    {
     "name": "纳指ETF国泰",
     "grp": "跨境",
-    "chg": -0.91
+    "chg": 0.14
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": 0.14
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": -0.22
+   },
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": -0.22
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
+    "chg": -0.31
    },
    {
     "name": "日经ETF华夏",
     "grp": "跨境",
-    "chg": -1.13
+    "chg": -0.35
    },
    {
-    "name": "煤炭ETF国泰",
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -0.4
+   },
+   {
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": -0.42
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": -0.52
+   },
+   {
+    "name": "证券ETF国泰",
+    "grp": "地产金融",
+    "chg": -0.61
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -1.0
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": -1.05
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -1.2
+   },
+   {
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -1.49
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -1.5
+   },
+   {
+    "name": "恒生科技ETF华泰柏瑞",
+    "grp": "跨境",
+    "chg": -1.51
+   },
+   {
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": -1.58
+   },
+   {
+    "name": "黄金ETF华安",
+    "grp": "商品",
+    "chg": -2.0
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -2.4
+   },
+   {
+    "name": "有色金属ETF南方",
     "grp": "资源",
-    "chg": -1.93
+    "chg": -3.01
    }
   ],
-  "median": -0.07,
-  "spread": 4.33,
+  "median": -0.61,
+  "spread": 3.86,
   "strong": [
-   "半导体ETF国联安",
-   2.4
+   "煤炭ETF国泰",
+   0.85
   ],
   "weak": [
-   "煤炭ETF国泰",
-   -1.93
+   "有色金属ETF南方",
+   -3.01
   ]
  },
  "reach": [
@@ -218,9 +252,6 @@
  ],
  "errors": {
   "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
