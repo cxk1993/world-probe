@@ -1,97 +1,86 @@
 {
- "ts": "2026-11-19T04:26:05Z",
+ "ts": "2026-11-20T04:12:19Z",
  "gdelt": {
   "tsmc": {
-   "now": 0.055,
-   "ref": 0.0995,
-   "chg_pct": -44.7,
-   "points": 20,
-   "asof": "20261115T000000Z"
-  },
-  "semis": {
-   "now": 0.1649,
-   "ref": 1.374,
-   "chg_pct": -88.0,
-   "points": 20,
-   "asof": "20261115T000000Z"
-  },
-  "ceasefire": {
-   "now": 0.3299,
-   "ref": 0.2763,
-   "chg_pct": 19.4,
-   "points": 20,
-   "asof": "20261115T000000Z"
-  },
-  "dedollar": {
-   "now": 0,
+   "now": 0.2347,
    "ref": 0,
    "chg_pct": null,
-   "points": 20,
-   "asof": "20261115T000000Z"
+   "points": 23,
+   "asof": "20261120T000000Z"
   },
-  "oil": {
-   "now": 0.11,
-   "ref": 0.3463,
-   "chg_pct": -68.2,
-   "points": 20,
-   "asof": "20261115T000000Z"
+  "ceasefire": {
+   "now": 0.2233,
+   "ref": 0.536,
+   "chg_pct": -58.3,
+   "points": 23,
+   "asof": "20261120T000000Z"
+  },
+  "taiwan": {
+   "now": 3.2177,
+   "ref": 0.6206,
+   "chg_pct": 418.5,
+   "points": 23,
+   "asof": "20261120T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 33,
+   "count": 36,
    "titles": [
-    "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-    "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-    "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-    "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-    "Crimean Bridge attacked again, Russian official says",
-    "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-    "Elon Musk says record spending on US midterms was 'pretty foolish'",
-    "Russian arrested for spying on US defence company Palantir over Ukraine support",
-    "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-    "William and Kate meet PM Modi as they wrap up India tour",
-    "Kuwait says it repelled first Iranian attack in two months after US strikes island"
+    "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+    "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "California targets Nvidia in China AI chip probe",
+    "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+    "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+    "Trump posthumously pardons US baseball legend Pete Rose",
+    "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+    "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+    "Van Gogh painting sells for record $190.4m after row over its Nazi history"
    ]
   },
   "bbc_business": {
-   "count": 49,
+   "count": 57,
    "titles": [
-    "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-    "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-    "The seven Anthropic founders who are about to become multi-billionaires",
-    "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+    "California targets Nvidia in China AI chip probe",
+    "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+    "Airbnb's divisive new house rules come into force",
+    "Fish and eggs al desko? The dos and don'ts of the lunch break",
+    "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+    "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-    "Europe plans to catch the next computer chip wave",
-    "Gilts v kilts: What is happening with Scottish government bonds?",
-    "Why has Waymo pulled all its driverless cars from US freeways?",
-    "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-    "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-    "Nvidia says it won't reinstate Huang as it reports soaring sales",
-    "How important are Nvidia and Jensen Huang to the US economy?"
+    "The seven Anthropic founders who are about to become multi-billionaires",
+    "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "Elon Musk says record $446m spending on US midterms was 'pretty foolish'"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Miami court convicts US-Haitian pastor over 2021 assassination of president",
-    "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
-    "China’s Xi greets Putin and Trump at APEC before historic summit",
-    "Google’s driverless car hits a roadblock",
-    "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-    "ICJ to rule on Rohingya genocide case against Myanmar",
-    "Hegseth unveils new US-Venezuela military deal",
-    "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-    "Settler rams into Palestinians at multiple locations in central Israel",
-    "German FA backs France’s Diallo for FIFA presidency",
-    "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
-    "Somalia’s constitutional overhaul tests its fragile federal bargain"
+    "Thousands protest Colombia’s tax plans amid row over US military role",
+    "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+    "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+    "Hippo Fiona dies days after swallowing visitor’s hat",
+    "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+    "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+    "Democrats say law firm gave $11.8m in free services to Trump administration",
+    "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+    "Haiti police say 34 gang members killed in capital raid",
+    "El Salvador’s Bukele expected to formalise bid for third presidential term",
+    "Four bodies recovered after Senegal boat capsizes amid migration surge",
+    "Iran war live: Houthis escalate attacks on Saudi capital"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+    "No government approval needed to form or join a group, UN rights committee says",
+    "World’s top court finds Myanmar guilty of genocide against Rohingya",
     "COP31 deadlock persists as countries launch new ‘climate reality check’",
     "Patients running out of options as antibiotics stop working against common infections",
     "Dozens more children killed in Yemen amid escalating hostilities",
@@ -100,130 +89,127 @@
     "COP31: The push to protect warming oceans reaches the negotiating table",
     "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
     "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-    "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
-    "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
-    "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
-    "Lebanon leading the way in mental health support"
+    "Winter rains deepen Gaza crisis amid restricted access and aid cuts"
    ]
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": 0.78
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": 0.32
-   },
-   {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": 0.14
-   },
-   {
-    "name": "证券ETF国泰",
-    "grp": "地产金融",
-    "chg": 0.1
-   },
-   {
     "name": "十年国债ETF国泰",
     "grp": "债券",
-    "chg": 0.08
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": -0.26
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": -0.44
+    "chg": -0.05
    },
    {
     "name": "银行ETF华宝",
     "grp": "地产金融",
-    "chg": -0.44
-   },
-   {
-    "name": "日经ETF华夏",
-    "grp": "跨境",
-    "chg": -0.44
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -0.45
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": -0.53
-   },
-   {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": -0.55
-   },
-   {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": -0.73
-   },
-   {
-    "name": "新能源车ETF华夏",
-    "grp": "制造",
-    "chg": -0.87
+    "chg": -0.66
    },
    {
     "name": "煤炭ETF国泰",
     "grp": "资源",
-    "chg": -1.1
+    "chg": -0.77
    },
    {
-    "name": "房地产ETF南方",
+    "name": "证券ETF国泰",
     "grp": "地产金融",
-    "chg": -1.11
+    "chg": -1.01
+   },
+   {
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": -1.41
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": -1.6
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": -1.65
    },
    {
     "name": "中证1000ETF南方",
     "grp": "宽基",
-    "chg": -1.26
+    "chg": -1.99
    },
    {
-    "name": "黄金ETF华安",
-    "grp": "商品",
-    "chg": -1.66
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -2.13
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -2.37
+   },
+   {
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": -2.37
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -2.42
+   },
+   {
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -2.63
    },
    {
     "name": "恒生科技ETF华泰柏瑞",
     "grp": "跨境",
-    "chg": -1.75
-   },
-   {
-    "name": "有色金属ETF南方",
-    "grp": "资源",
-    "chg": -2.01
+    "chg": -2.9
    },
    {
     "name": "人工智能ETF易方达",
     "grp": "科技",
-    "chg": -3.01
+    "chg": -3.0
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -3.0
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -3.08
+   },
+   {
+    "name": "有色金属ETF南方",
+    "grp": "资源",
+    "chg": -3.13
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": -3.72
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": -4.48
+   },
+   {
+    "name": "黄金ETF华安",
+    "grp": "商品",
+    "chg": -5.29
    }
   ],
-  "median": -0.53,
-  "spread": 3.79,
+  "median": -2.37,
+  "spread": 5.24,
   "strong": [
-   "半导体ETF国联安",
-   0.78
+   "十年国债ETF国泰",
+   -0.05
   ],
   "weak": [
-   "人工智能ETF易方达",
-   -3.01
+   "黄金ETF华安",
+   -5.29
   ]
  },
  "reach": [
@@ -244,8 +230,10 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
+  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
