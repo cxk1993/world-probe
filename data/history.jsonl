@@ -12,3 +12,4 @@
 {"ts": "2026-11-18T04:39:39Z", "gdelt": {"tsmc": 0.055, "ai": 3.0786, "semis": 0.1649, "ceasefire": 0.3299, "taiwan": 2.309, "oil": 0.11}, "rss_count": {"bbc_world": 28, "bbc_business": 55, "aljazeera": 25, "un_news": 30}}
 {"ts": "2026-11-19T04:26:05Z", "gdelt": {"tsmc": 0.055, "semis": 0.1649, "ceasefire": 0.3299, "dedollar": 0, "oil": 0.11}, "rss_count": {"bbc_world": 33, "bbc_business": 49, "aljazeera": 25, "un_news": 30}}
 {"ts": "2026-11-20T04:12:19Z", "gdelt": {"tsmc": 0.2347, "ceasefire": 0.2233, "taiwan": 3.2177}, "rss_count": {"bbc_world": 36, "bbc_business": 57, "aljazeera": 25, "un_news": 30}}
+{"ts": "2026-11-21T04:13:06Z", "gdelt": {"semis": 1.3347, "taiwan": 2.4641, "oil": 0.77}, "rss_count": {"bbc_world": 25, "bbc_business": 58, "aljazeera": 25, "un_news": 30}}

@@ -1,215 +1,215 @@
 {
- "ts": "2026-11-20T04:12:19Z",
+ "ts": "2026-11-21T04:13:06Z",
  "gdelt": {
-  "tsmc": {
-   "now": 0.2347,
-   "ref": 0,
-   "chg_pct": null,
+  "semis": {
+   "now": 1.3347,
+   "ref": 0.1649,
+   "chg_pct": 709.4,
    "points": 23,
-   "asof": "20261120T000000Z"
-  },
-  "ceasefire": {
-   "now": 0.2233,
-   "ref": 0.536,
-   "chg_pct": -58.3,
-   "points": 23,
-   "asof": "20261120T000000Z"
+   "asof": "20261121T000000Z"
   },
   "taiwan": {
-   "now": 3.2177,
-   "ref": 0.6206,
-   "chg_pct": 418.5,
+   "now": 2.4641,
+   "ref": 2.309,
+   "chg_pct": 6.7,
    "points": 23,
-   "asof": "20261120T000000Z"
+   "asof": "20261121T000000Z"
+  },
+  "oil": {
+   "now": 0.77,
+   "ref": 0.11,
+   "chg_pct": 600.0,
+   "points": 23,
+   "asof": "20261121T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 36,
+   "count": 25,
    "titles": [
-    "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-    "Myanmar committed genocide against Rohingya minority, top UN court rules",
-    "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-    "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-    "California targets Nvidia in China AI chip probe",
-    "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-    "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-    "Trump posthumously pardons US baseball legend Pete Rose",
-    "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-    "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-    "Van Gogh painting sells for record $190.4m after row over its Nazi history"
+    "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "French police officers sentenced for beating of music producer Michel Zecler",
+    "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "Gérard Depardieu and French author investigated over sexual allegations",
+    "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "Trump threatens ban on US firms building AI data centres overseas",
+    "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+    "Nearly 600 women killed in South Africa within three months"
    ]
   },
   "bbc_business": {
-   "count": 57,
+   "count": 58,
    "titles": [
-    "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "GTA 6 breaks records as sales top $2.3bn - industry estimate",
-    "California targets Nvidia in China AI chip probe",
-    "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+    "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "Trump threatens ban on US firms building AI data centres overseas",
+    "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+    "Should AI be judging our credit worthiness?",
+    "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "Fish and eggs al desko? The dos and don'ts of lunch at work",
     "Airbnb's divisive new house rules come into force",
-    "Fish and eggs al desko? The dos and don'ts of the lunch break",
-    "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-    "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-    "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-    "The seven Anthropic founders who are about to become multi-billionaires",
-    "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-    "Elon Musk says record $446m spending on US midterms was 'pretty foolish'"
+    "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+    "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+    "Anthropic becomes one of world's most valuable public companies in stock market debut"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Thousands protest Colombia’s tax plans amid row over US military role",
-    "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
-    "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
-    "Hippo Fiona dies days after swallowing visitor’s hat",
-    "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
-    "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-    "Democrats say law firm gave $11.8m in free services to Trump administration",
-    "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
-    "Haiti police say 34 gang members killed in capital raid",
-    "El Salvador’s Bukele expected to formalise bid for third presidential term",
-    "Four bodies recovered after Senegal boat capsizes amid migration surge",
-    "Iran war live: Houthis escalate attacks on Saudi capital"
+    "Three French police officers sentenced over racist assault on Black man",
+    "Gen Z protests sweep Europe over wars, rising costs and climate",
+    "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+    "COP31 deal stalls as nations struggle to agree on climate plan",
+    "Can Africa’s new credit rating agency change how the continent is assessed?",
+    "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+    "Can Mauricio Pochettino save Man United from Premier League relegation?",
+    "Iran war live: Saudi-led coalition downs Houthi missiles",
+    "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+    "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+    "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+    "US lawmakers push for tougher AI chip rules amid China export crackdown"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+    "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+    "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+    "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+    "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+    "Afghanistan restrictions prevent pregnant women from seeking medical help",
+    "Battle to control GPS and radio signals raises civilian safety concerns",
+    "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
+    "‘Losing the battle’: AI hands predators new ways to target children",
     "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
     "No government approval needed to form or join a group, UN rights committee says",
-    "World’s top court finds Myanmar guilty of genocide against Rohingya",
-    "COP31 deadlock persists as countries launch new ‘climate reality check’",
-    "Patients running out of options as antibiotics stop working against common infections",
-    "Dozens more children killed in Yemen amid escalating hostilities",
-    "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
-    "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
-    "COP31: The push to protect warming oceans reaches the negotiating table",
-    "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
-    "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-    "Winter rains deepen Gaza crisis amid restricted access and aid cuts"
+    "World’s top court finds Myanmar guilty of genocide against Rohingya"
    ]
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": -0.05
-   },
-   {
     "name": "银行ETF华宝",
     "grp": "地产金融",
-    "chg": -0.66
-   },
-   {
-    "name": "煤炭ETF国泰",
-    "grp": "资源",
-    "chg": -0.77
-   },
-   {
-    "name": "证券ETF国泰",
-    "grp": "地产金融",
-    "chg": -1.01
-   },
-   {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": -1.41
+    "chg": 1.2
    },
    {
     "name": "上证50ETF华夏",
     "grp": "宽基",
-    "chg": -1.6
+    "chg": 0.59
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": -0.04
+   },
+   {
+    "name": "煤炭ETF国泰",
+    "grp": "资源",
+    "chg": -0.43
+   },
+   {
+    "name": "证券ETF国泰",
+    "grp": "地产金融",
+    "chg": -0.51
+   },
+   {
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": -0.71
    },
    {
     "name": "沪深300ETF华泰柏瑞",
     "grp": "宽基",
-    "chg": -1.65
-   },
-   {
-    "name": "中证1000ETF南方",
-    "grp": "宽基",
-    "chg": -1.99
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -2.13
-   },
-   {
-    "name": "房地产ETF南方",
-    "grp": "地产金融",
-    "chg": -2.37
+    "chg": -1.03
    },
    {
     "name": "医药ETF易方达",
     "grp": "防御",
-    "chg": -2.37
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": -2.42
-   },
-   {
-    "name": "新能源车ETF华夏",
-    "grp": "制造",
-    "chg": -2.63
-   },
-   {
-    "name": "恒生科技ETF华泰柏瑞",
-    "grp": "跨境",
-    "chg": -2.9
-   },
-   {
-    "name": "人工智能ETF易方达",
-    "grp": "科技",
-    "chg": -3.0
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": -3.0
-   },
-   {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": -3.08
+    "chg": -1.32
    },
    {
     "name": "有色金属ETF南方",
     "grp": "资源",
-    "chg": -3.13
+    "chg": -2.89
    },
    {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": -3.72
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -3.2
    },
    {
-    "name": "日经ETF华夏",
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -3.35
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -3.71
+   },
+   {
+    "name": "恒生科技ETF华泰柏瑞",
     "grp": "跨境",
-    "chg": -4.48
+    "chg": -3.79
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -4.07
    },
    {
     "name": "黄金ETF华安",
     "grp": "商品",
-    "chg": -5.29
+    "chg": -4.34
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -4.35
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -4.36
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
+    "chg": -4.39
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": -4.64
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": -4.8
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": -5.12
    }
   ],
-  "median": -2.37,
-  "spread": 5.24,
+  "median": -3.35,
+  "spread": 6.32,
   "strong": [
-   "十年国债ETF国泰",
-   -0.05
+   "银行ETF华宝",
+   1.2
   ],
   "weak": [
-   "黄金ETF华安",
-   -5.29
+   "日经ETF华夏",
+   -5.12
   ]
  },
  "reach": [
@@ -230,10 +230,10 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
+  "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
