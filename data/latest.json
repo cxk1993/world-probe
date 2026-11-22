@@ -1,44 +1,37 @@
 {
- "ts": "2026-11-21T04:13:06Z",
+ "ts": "2026-11-22T03:24:40Z",
  "gdelt": {
   "semis": {
-   "now": 1.3347,
-   "ref": 0.1649,
-   "chg_pct": 709.4,
+   "now": 0.3499,
+   "ref": 0.7895,
+   "chg_pct": -55.7,
    "points": 23,
-   "asof": "20261121T000000Z"
+   "asof": "20261122T000000Z"
   },
-  "taiwan": {
-   "now": 2.4641,
-   "ref": 2.309,
-   "chg_pct": 6.7,
+  "dedollar": {
+   "now": 0,
+   "ref": 0,
+   "chg_pct": null,
    "points": 23,
-   "asof": "20261121T000000Z"
-  },
-  "oil": {
-   "now": 0.77,
-   "ref": 0.11,
-   "chg_pct": 600.0,
-   "points": 23,
-   "asof": "20261121T000000Z"
+   "asof": "20261122T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 25,
+   "count": 27,
    "titles": [
-    "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "French police officers sentenced for beating of music producer Michel Zecler",
-    "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-    "Gérard Depardieu and French author investigated over sexual allegations",
-    "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-    "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "Russia-bound ship attacked in Gulf of Finland",
+    "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "FBI reportedly investigating apparent hack of its criminal database",
     "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-    "Trump threatens ban on US firms building AI data centres overseas",
-    "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-    "Nearly 600 women killed in South Africa within three months"
+    "Man convicted of starting Palisades fire in Los Angeles",
+    "Lock of former US President George Washington's hair sells for $4,000",
+    "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "French police officers sentenced for beating of music producer Michel Zecler",
+    "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest"
    ]
   },
   "bbc_business": {
@@ -61,35 +54,35 @@
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Three French police officers sentenced over racist assault on Black man",
-    "Gen Z protests sweep Europe over wars, rising costs and climate",
-    "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-    "COP31 deal stalls as nations struggle to agree on climate plan",
-    "Can Africa’s new credit rating agency change how the continent is assessed?",
-    "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-    "Can Mauricio Pochettino save Man United from Premier League relegation?",
-    "Iran war live: Saudi-led coalition downs Houthi missiles",
-    "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
-    "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-    "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-    "US lawmakers push for tougher AI chip rules amid China export crackdown"
+    "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+    "Bessent confirms he’s living on US military base over Iran fears",
+    "Moviegoers head for the exits as quake strikes Peru",
+    "Clashes erupt across France in another night of protest",
+    "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+    "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+    "Iran faces a ‘silent economic war’, says Iranian president",
+    "Bahrain says Iranian attack hits industrial facility",
+    "Bahrain says Iranian attack causes fire at industrial facility",
+    "Impunity fuels surge in settler violence across occupied West Bank",
+    "Indian man jailed over plot to kill Sikh separatist in US",
+    "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+    "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+    "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
     "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
     "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
     "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
     "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
-    "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+    "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
     "Afghanistan restrictions prevent pregnant women from seeking medical help",
     "Battle to control GPS and radio signals raises civilian safety concerns",
     "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
-    "‘Losing the battle’: AI hands predators new ways to target children",
-    "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
-    "No government approval needed to form or join a group, UN rights committee says",
-    "World’s top court finds Myanmar guilty of genocide against Rohingya"
+    "‘Losing the battle’: AI hands predators new ways to target children"
    ]
   }
  },
@@ -215,8 +208,8 @@
  "reach": [
   {
    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=test&mode=artlist&maxrecords=1&format=json",
-   "status": 429,
-   "err": "http"
+   "status": 200,
+   "bytes": 379
   },
   {
    "url": "https://worldmonitor.app/llms.txt",
@@ -234,6 +227,7 @@
   "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
