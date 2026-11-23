@@ -1,76 +1,63 @@
 {
- "ts": "2026-11-22T03:24:40Z",
- "gdelt": {
-  "semis": {
-   "now": 0.3499,
-   "ref": 0.7895,
-   "chg_pct": -55.7,
-   "points": 23,
-   "asof": "20261122T000000Z"
-  },
-  "dedollar": {
-   "now": 0,
-   "ref": 0,
-   "chg_pct": null,
-   "points": 23,
-   "asof": "20261122T000000Z"
-  }
- },
+ "ts": "2026-11-23T03:55:22Z",
+ "gdelt": {},
  "rss": {
   "bbc_world": {
-   "count": 27,
+   "count": 37,
    "titles": [
-    "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    "Russia-bound ship attacked in Gulf of Finland",
-    "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "FBI reportedly investigating apparent hack of its criminal database",
-    "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-    "Man convicted of starting Palisades fire in Los Angeles",
-    "Lock of former US President George Washington's hair sells for $4,000",
-    "Deal with EU not dependent on tuition fees agreement, Miliband says",
-    "French police officers sentenced for beating of music producer Michel Zecler",
-    "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest"
+    "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "What's next after no deal at COP31 climate talks?",
+    "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+    "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+    "Three killed and dozens missing after fire at Indonesian factory",
+    "Miley Cyrus marries Maxx Morando in California ceremony",
+    "South Korea education minister resigns over exam cheating scandal",
+    "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+    "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "US Army to detonate tonnes of unstable explosives in Iowa despite court order"
    ]
   },
   "bbc_business": {
-   "count": 58,
+   "count": 46,
    "titles": [
-    "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+    "What is going on with Poundland?",
+    "Energy bills will soar - here's how you can ease the pain",
+    "Employers are being asked to give interview feedback - here's what applicants want",
+    "Can AI really help spot Black Friday deals? We put it to the test",
+    "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "Italian jeweller and businessman Paolo Bulgari dies aged 89",
     "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-    "Trump threatens ban on US firms building AI data centres overseas",
-    "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-    "Should AI be judging our credit worthiness?",
-    "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-    "Fish and eggs al desko? The dos and don'ts of lunch at work",
-    "Airbnb's divisive new house rules come into force",
-    "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-    "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-    "Anthropic becomes one of world's most valuable public companies in stock market debut"
+    "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "MP criticises Guernsey and Jersey company ownership register plans",
+    "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "Trump threatens ban on US firms building AI data centres overseas"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-    "Bessent confirms he’s living on US military base over Iran fears",
-    "Moviegoers head for the exits as quake strikes Peru",
-    "Clashes erupt across France in another night of protest",
-    "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-    "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-    "Iran faces a ‘silent economic war’, says Iranian president",
-    "Bahrain says Iranian attack hits industrial facility",
-    "Bahrain says Iranian attack causes fire at industrial facility",
-    "Impunity fuels surge in settler violence across occupied West Bank",
-    "Indian man jailed over plot to kill Sikh separatist in US",
-    "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction"
+    "Don Toliver concert chaos after ‘substance’ let off in crowd",
+    "Belgium’s airports set to shut down due to anti-austerity strike",
+    "Indonesian police remove 24 body bags from factory fire site",
+    "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+    "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+    "Poland says Russia tried to assassinate Ukrainian rapper twice",
+    "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+    "Israeli forces continue house demolitions in southern Lebanon",
+    "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+    "Asian stock markets tumble as AI bubble fears mount",
+    "Cameroon’s ex-rebels caught between hiding and broken promises",
+    "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+    "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
     "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
     "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
     "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
@@ -80,136 +67,134 @@
     "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
     "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
     "Afghanistan restrictions prevent pregnant women from seeking medical help",
-    "Battle to control GPS and radio signals raises civilian safety concerns",
-    "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
-    "‘Losing the battle’: AI hands predators new ways to target children"
+    "Battle to control GPS and radio signals raises civilian safety concerns"
    ]
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": 1.2
-   },
-   {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": 0.59
-   },
-   {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": -0.04
-   },
-   {
-    "name": "煤炭ETF国泰",
-    "grp": "资源",
-    "chg": -0.43
-   },
-   {
-    "name": "证券ETF国泰",
-    "grp": "地产金融",
-    "chg": -0.51
-   },
-   {
-    "name": "消费ETF汇添富",
-    "grp": "防御",
-    "chg": -0.71
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": -1.03
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": -1.32
-   },
-   {
     "name": "有色金属ETF南方",
     "grp": "资源",
-    "chg": -2.89
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": -3.2
-   },
-   {
-    "name": "新能源车ETF华夏",
-    "grp": "制造",
-    "chg": -3.35
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": -3.71
-   },
-   {
-    "name": "恒生科技ETF华泰柏瑞",
-    "grp": "跨境",
-    "chg": -3.79
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": -4.07
+    "chg": 1.61
    },
    {
     "name": "黄金ETF华安",
     "grp": "商品",
-    "chg": -4.34
-   },
-   {
-    "name": "房地产ETF南方",
-    "grp": "地产金融",
-    "chg": -4.35
-   },
-   {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": -4.36
+    "chg": 1.1
    },
    {
     "name": "人工智能ETF易方达",
     "grp": "科技",
-    "chg": -4.39
-   },
-   {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": -4.64
+    "chg": 0.32
    },
    {
     "name": "中证1000ETF南方",
     "grp": "宽基",
-    "chg": -4.8
+    "chg": 0.09
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": -0.02
+   },
+   {
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -0.08
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -0.23
+   },
+   {
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": -0.27
+   },
+   {
+    "name": "证券ETF国泰",
+    "grp": "地产金融",
+    "chg": -0.31
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": -0.42
+   },
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": -0.43
+   },
+   {
+    "name": "恒生科技ETF华泰柏瑞",
+    "grp": "跨境",
+    "chg": -0.46
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -0.47
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -0.56
+   },
+   {
+    "name": "消费ETF汇添富",
+    "grp": "防御",
+    "chg": -0.57
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": -1.03
    },
    {
     "name": "日经ETF华夏",
     "grp": "跨境",
-    "chg": -5.12
+    "chg": -1.19
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -1.29
+   },
+   {
+    "name": "煤炭ETF国泰",
+    "grp": "资源",
+    "chg": -1.46
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -2.28
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": -3.23
    }
   ],
-  "median": -3.35,
-  "spread": 6.32,
+  "median": -0.43,
+  "spread": 4.84,
   "strong": [
-   "银行ETF华宝",
-   1.2
+   "有色金属ETF南方",
+   1.61
   ],
   "weak": [
-   "日经ETF华夏",
-   -5.12
+   "纳指ETF国泰",
+   -3.23
   ]
  },
  "reach": [
   {
    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=test&mode=artlist&maxrecords=1&format=json",
-   "status": 200,
-   "bytes": 379
+   "status": 429,
+   "err": "http"
   },
   {
    "url": "https://worldmonitor.app/llms.txt",
@@ -223,10 +208,12 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
+  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
  }
