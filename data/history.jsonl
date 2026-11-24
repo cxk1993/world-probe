@@ -15,3 +15,4 @@
 {"ts": "2026-11-21T04:13:06Z", "gdelt": {"semis": 1.3347, "taiwan": 2.4641, "oil": 0.77}, "rss_count": {"bbc_world": 25, "bbc_business": 58, "aljazeera": 25, "un_news": 30}}
 {"ts": "2026-11-22T03:24:40Z", "gdelt": {"semis": 0.3499, "dedollar": 0}, "rss_count": {"bbc_world": 27, "bbc_business": 58, "aljazeera": 25, "un_news": 30}}
 {"ts": "2026-11-23T03:55:22Z", "gdelt": {}, "rss_count": {"bbc_world": 37, "bbc_business": 46, "aljazeera": 25, "un_news": 30}}
+{"ts": "2026-11-24T07:03:25Z", "gdelt": {"ai": 4.2443, "taiwan": 3.3059}, "rss_count": {"bbc_world": 22, "bbc_business": 57, "aljazeera": 25, "un_news": 30}}
