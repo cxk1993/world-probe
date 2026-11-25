@@ -1,208 +1,215 @@
 {
- "ts": "2026-11-24T07:03:25Z",
+ "ts": "2026-11-25T05:37:37Z",
  "gdelt": {
   "ai": {
-   "now": 4.2443,
-   "ref": 4.4227,
-   "chg_pct": -4.0,
+   "now": 3.4231,
+   "ref": 4.1057,
+   "chg_pct": -16.6,
    "points": 23,
-   "asof": "20261124T000000Z"
+   "asof": "20261125T000000Z"
   },
   "taiwan": {
-   "now": 3.3059,
-   "ref": 1.5454,
-   "chg_pct": 113.9,
+   "now": 3.1155,
+   "ref": 2.9298,
+   "chg_pct": 6.3,
    "points": 23,
-   "asof": "20261124T000000Z"
+   "asof": "20261125T000000Z"
+  },
+  "oil": {
+   "now": 0.2284,
+   "ref": 0.2739,
+   "chg_pct": -16.6,
+   "points": 23,
+   "asof": "20261125T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 22,
+   "count": 37,
    "titles": [
-    "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-    "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-    "India's 'cockroach' party leader says he was stopped from flying to UK",
-    "What strike on Russian ship in Libya says about spread of Ukraine war",
-    "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-    "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "Iranian authorities flog singer who performed without hijab, lawyers say",
-    "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-    "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-    "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-    "UK sanctions top Myanmar military leaders after Rohingya genocide ruling"
+    "US attorney general dodges questions about Nvidia investigation",
+    "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+    "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+    "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+    "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "Land mine casualties soar in Syria, two years after war",
+    "Thomas Markle indicted in US for possessing child sex abuse images",
+    "These North Koreans say they were spied on, beaten and jailed for being Christian",
+    "Israeli air strike kills Hamas internal security chief in Gaza",
+    "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+    "The rising cost of putting food on the table in India",
+    "Nigerian monarch, 92, suspended after sexual assault claims"
    ]
   },
   "bbc_business": {
-   "count": 57,
+   "count": 49,
    "titles": [
-    "Britain's landlords are getting bigger. A two-tier rental market may follow",
+    "Households braced for soaring energy bills with new price cap to be announced",
+    "US preparing to unveil plan for new tariffs on global trading partners",
+    "What will the energy cap changes mean for my bills?",
+    "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+    "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+    "Why tiny cars are taking off across Europe",
+    "Faisal Islam: Fears over the AI boom haven't gone away",
+    "US attorney general dodges questions about Nvidia investigation",
+    "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "Will I get the £100 energy payment and when will I receive it?",
     "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    "Faisal Islam: Why Jensen Huang proved too big to fire",
-    "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-    "I pay £250 a month for someone else to do my life admin - it's worth it",
-    "How important are Nvidia and Jensen Huang to the US economy?",
-    "The rise and fall and rise again of Jensen Huang",
-    "Capita shares plunge 70% as boss quits after civil service pensions failure",
-    "Next data accessed in cyber breach",
-    "Catering giant to switch main share listing to US in further blow to UK",
-    "Energy bills will soar - here's how you can ease the pain",
-    "Poundland is facing collapse - what's gone wrong?"
+    "World Cup drove profits surge, says Marston's"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
-    "Why Eisenkot is negotiating with Netanyahu",
-    "Nvidia live: Markets surge as Jensen Huang returns as CEO",
-    "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
-    "Pennsylvania reports ninth measles death in ongoing state outbreak",
-    "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
-    "Car bomb strikes governor’s office in Meta, Colombia",
-    "India’s best known bottled water under scrutiny",
-    "WHO chief visits Cuba as healthcare system deteriorates",
-    "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
-    "Excavator threatens sacred alpine lake in the Himalayas",
-    "UN chief calls for world to agree on AI oversight within a year"
+    "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
+    "The Gambia election: Can the next president deliver on a decade of promise",
+    "UK warns companies of potential Russian sabotage threat",
+    "Protesters clash with police over Venezuela’s poor minimum wage",
+    "Israeli strike kills four people in Gaza",
+    "Galatasaray says Israel complained to UEFA over Palestine banners",
+    "Asia’s stock markets dive as doubts swirl over AI boom",
+    "Pakistani astronaut launches into space aboard Chinese rocket",
+    "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+    "WHO chief urges end to US fuel blockade on Cuba",
+    "Senegal fans celebrate AFCON legal victory over Morocco",
+    "Israel’s Eisenkot secures first coalition partner in bid to form government"
    ]
   },
   "un_news": {
    "count": 30,
    "titles": [
+    "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+    "Decades of gains against AIDS could unravel as HIV funding dries up",
+    "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
+    "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+    "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+    "Colombia: Guterres urges renewed commitment to landmark peace deal",
+    "Five women killed every hour by partners or family members",
     "Gaza war has undone 77 years of human development, UN warns",
     "UN chief urges talks on global AI safety framework, warns of historic shift in power",
     "Security Council LIVE: Winter attacks on Ukraine&#039;s power grid and Black Sea shipping threaten lives and global food supplies",
     "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
-    "Libya: UN mission urges probe into Benghazi port attacks",
-    "Guterres laments COP31 outcome, urges climate justice from Barbados",
-    "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
-    "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
-    "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
-    "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-    "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
-    "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling"
+    "Libya: UN mission urges probe into Benghazi port attacks"
    ]
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "日经ETF华夏",
-    "grp": "跨境",
-    "chg": 4.06
-   },
-   {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": 3.95
-   },
-   {
-    "name": "半导体ETF国联安",
-    "grp": "科技",
-    "chg": 1.47
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": 1.43
-   },
-   {
-    "name": "人工智能ETF易方达",
-    "grp": "科技",
-    "chg": 0.79
-   },
-   {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": 0.76
-   },
-   {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": 0.45
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": 0.25
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": 0.27
    },
    {
     "name": "消费ETF汇添富",
     "grp": "防御",
-    "chg": 0.14
+    "chg": 0.0
    },
    {
     "name": "十年国债ETF国泰",
     "grp": "债券",
-    "chg": 0.06
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": 0.0
-   },
-   {
-    "name": "黄金ETF华安",
-    "grp": "商品",
-    "chg": -0.07
-   },
-   {
-    "name": "中证1000ETF南方",
-    "grp": "宽基",
-    "chg": -0.34
-   },
-   {
-    "name": "中证500ETF南方",
-    "grp": "宽基",
-    "chg": -0.55
-   },
-   {
-    "name": "新能源车ETF华夏",
-    "grp": "制造",
-    "chg": -0.65
-   },
-   {
-    "name": "房地产ETF南方",
-    "grp": "地产金融",
-    "chg": -1.18
+    "chg": -0.06
    },
    {
     "name": "煤炭ETF国泰",
     "grp": "资源",
-    "chg": -1.31
+    "chg": -0.18
    },
    {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": -1.32
-   },
-   {
-    "name": "证券ETF国泰",
+    "name": "银行ETF华宝",
     "grp": "地产金融",
-    "chg": -1.52
+    "chg": -0.33
    },
    {
     "name": "恒生科技ETF华泰柏瑞",
     "grp": "跨境",
-    "chg": -1.85
+    "chg": -0.47
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": -0.6
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": -0.69
+   },
+   {
+    "name": "证券ETF国泰",
+    "grp": "地产金融",
+    "chg": -1.14
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": -1.24
    },
    {
     "name": "有色金属ETF南方",
     "grp": "资源",
+    "chg": -1.85
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": -1.87
+   },
+   {
+    "name": "中证500ETF南方",
+    "grp": "宽基",
+    "chg": -2.07
+   },
+   {
+    "name": "军工ETF国泰",
+    "grp": "科技",
+    "chg": -2.17
+   },
+   {
+    "name": "黄金ETF华安",
+    "grp": "商品",
+    "chg": -2.48
+   },
+   {
+    "name": "中证1000ETF南方",
+    "grp": "宽基",
+    "chg": -2.68
+   },
+   {
+    "name": "人工智能ETF易方达",
+    "grp": "科技",
     "chg": -2.81
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": -2.96
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": -3.4
+   },
+   {
+    "name": "新能源车ETF华夏",
+    "grp": "制造",
+    "chg": -4.31
+   },
+   {
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": -4.87
    }
   ],
-  "median": 0.0,
-  "spread": 6.87,
+  "median": -1.85,
+  "spread": 5.14,
   "strong": [
-   "日经ETF华夏",
-   4.06
+   "医药ETF易方达",
+   0.27
   ],
   "weak": [
-   "有色金属ETF南方",
-   -2.81
+   "半导体ETF国联安",
+   -4.87
   ]
  },
  "reach": [
@@ -223,11 +230,10 @@
   }
  ],
  "errors": {
-  "gdelt:hormuz": "JSONDecodeError:Expecting value: line 1 column 1 (char 0)",
+  "gdelt:hormuz": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:tsmc": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
+  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
