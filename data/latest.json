@@ -1,201 +1,188 @@
 {
- "ts": "2026-11-26T05:21:31Z",
+ "ts": "2026-11-27T05:16:41Z",
  "gdelt": {
-  "taiwan": {
-   "now": 3.7418,
-   "ref": 1.4241,
-   "chg_pct": 162.7,
-   "points": 23,
-   "asof": "20261126T000000Z"
+  "dedollar": {
+   "now": 0,
+   "ref": 0,
+   "chg_pct": null,
+   "points": 24,
+   "asof": "20261127T000000Z"
   }
  },
  "rss": {
   "bbc_world": {
-   "count": 30,
+   "count": 31,
    "titles": [
-    "US announces new tariffs on host of countries including China",
-    "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-    "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-    "Has global jihadism failed, or is it simply changing shape?",
-    "Israeli judges recommend dropping most serious charges against Netanyahu",
-    "US stocks fall further as fears over AI intensify",
-    "US Army says controlled blast of explosives in Iowa was 'huge success'",
-    "California warns of flooding as King Tides peak over Thanksgiving",
-    "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-    "Trump's accounts traded Nvidia shares 44 times this year, records show",
-    "Macy's postpones Thanksgiving parade due to severe weather",
-    "Angelina Jolie and Brad Pitt settle legal battle over French winery"
+    "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+    "Major Thanksgiving storm brings flooding, flight delays across US",
+    "Watch: Roofs torn off and streets under water as severe weather hits US",
+    "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+    "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+    "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+    "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+    "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "Pregnant US inmate escapes in prison vehicle after medical appointment",
+    "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "Egyptian authorities arrest motorist over tanker crash that killed 31",
+    "Hope for millions as cheaper HIV prevention jab reaches Africa"
    ]
   },
   "bbc_business": {
-   "count": 50,
+   "count": 52,
    "titles": [
-    "UK government set to publish new treaties agreed with EU",
-    "Poundland collapses putting 11,000 jobs at risk",
-    "What's gone wrong at Poundland?",
-    "US announces new tariffs on host of countries including China",
-    "US approves SpaceX plan to send a million data satellites to space",
-    "US stocks fall further as fears over AI intensify",
-    "Guitar wars - the transatlantic battle over the Stratocaster",
-    "Energy bills to rise by 26% from January after gas prices surge",
-    "Trump's accounts traded Nvidia shares 44 times this year, records show",
-    "Energy bills will soar - here's how you can ease the pain",
-    "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-    "What will the energy cap changes mean for my bills?"
+    "Faisal Islam: Why Trump's new tariffs are less of a threat",
+    "UK to pay 'participation' fee to deliver EU deals",
+    "Asia made a big AI bet on Nvidia. What happens now?",
+    "I spend £200 a month on fancy meals by myself - would you dine solo?",
+    "Millions of people to see average monthly mortgage payments rise by £100",
+    "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+    "Why is there a shortage of 'wizard' elevator mechanics?",
+    "New boss appointed to lead Travelodge",
+    "When will Poundland shops close? Five key questions answered",
+    "Norse Atlantic suspends all flights as it faces potential collapse",
+    "Drivers over 70 face eye tests every three years under new plans",
+    "New UK-EU treaty has 10-year termination clause"
    ]
   },
   "aljazeera": {
    "count": 25,
    "titles": [
-    "Six killed, including children, in plane crash off Mississippi coast",
-    "Brazil blasts ‘unacceptable’ new US tariff proposals",
-    "Racecourse office blown away in Brazil",
-    "Colombian president taunts arrested supermarket hostage-takers",
-    "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-    "FIFA turns to influencers to promote U17 World Cup",
-    "Kim Jong Un says North Korea should widen deployment of tactical nukes",
-    "Photos: Storms and an El Nino-charged king tide batter California’s coast",
-    "Ukraine attacks Russian military base, says five planes struck",
-    "ICE officers smash car window, pepper spray bystanders",
-    "Judges recommend prosecutors end corruption case against Netanyahu",
-    "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday"
+    "New Zealand’s Opportunity Party poised to become election kingmaker",
+    "Estonia closing land borders with Russia to keep out spies",
+    "Thanksgiving storms leave nearly a million without power across the US",
+    "At least 13 Niger soldiers killed in Sanam armed attack",
+    "Trump downplays Russia, China support for Iran during talks with US troops",
+    "Asian stock markets rise after earlier tech rout",
+    "Spain and Morocco under-17 stars target World Cup 2030",
+    "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+    "Trump says the US has ‘close to 50%’ of world’s oil",
+    "Clashes halt match as Turkiye football fans raise Palestinian flags",
+    "Global news agency AFP reports cyberattack, shuts down content platform",
+    "Inside Ukraine’s power crisis amid its war with Russia"
    ]
   },
   "un_news": {
-   "count": 30,
-   "titles": [
-    "Türk warns of widening risk of atrocity crimes against Palestinians",
-    "Governments and experts gather in Nairobi to tackle the global housing crisis",
-    "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
-    "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
-    "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
-    "Yemen war: Emergency aid chief calls for access to war-hit communities",
-    "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-    "Decades of gains against AIDS could unravel as HIV funding dries up",
-    "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
-    "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
-    "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
-    "Colombia: Guterres urges renewed commitment to landmark peace deal"
-   ]
+   "count": 0,
+   "titles": []
   }
  },
  "cn": {
   "rows": [
    {
-    "name": "纳指ETF国泰",
-    "grp": "跨境",
-    "chg": 2.49
-   },
-   {
-    "name": "恒生科技ETF华泰柏瑞",
-    "grp": "跨境",
-    "chg": 2.39
-   },
-   {
-    "name": "煤炭ETF国泰",
-    "grp": "资源",
-    "chg": 2.3
-   },
-   {
-    "name": "黄金ETF华安",
-    "grp": "商品",
-    "chg": 2.23
-   },
-   {
-    "name": "有色金属ETF南方",
-    "grp": "资源",
-    "chg": 1.98
-   },
-   {
-    "name": "日经ETF华夏",
-    "grp": "跨境",
-    "chg": 1.82
+    "name": "半导体ETF国联安",
+    "grp": "科技",
+    "chg": 10.06
    },
    {
     "name": "人工智能ETF易方达",
     "grp": "科技",
-    "chg": 0.9
-   },
-   {
-    "name": "房地产ETF南方",
-    "grp": "地产金融",
-    "chg": 0.81
+    "chg": 8.88
    },
    {
     "name": "中证1000ETF南方",
     "grp": "宽基",
-    "chg": 0.71
-   },
-   {
-    "name": "银行ETF华宝",
-    "grp": "地产金融",
-    "chg": 0.54
-   },
-   {
-    "name": "军工ETF国泰",
-    "grp": "科技",
-    "chg": 0.45
+    "chg": 6.45
    },
    {
     "name": "中证500ETF南方",
     "grp": "宽基",
-    "chg": 0.44
+    "chg": 5.89
    },
    {
-    "name": "上证50ETF华夏",
-    "grp": "宽基",
-    "chg": 0.39
-   },
-   {
-    "name": "医药ETF易方达",
-    "grp": "防御",
-    "chg": 0.27
-   },
-   {
-    "name": "沪深300ETF华泰柏瑞",
-    "grp": "宽基",
-    "chg": 0.13
-   },
-   {
-    "name": "十年国债ETF国泰",
-    "grp": "债券",
-    "chg": 0.09
-   },
-   {
-    "name": "光伏ETF华泰柏瑞",
-    "grp": "制造",
-    "chg": 0.0
-   },
-   {
-    "name": "半导体ETF国联安",
+    "name": "军工ETF国泰",
     "grp": "科技",
-    "chg": -0.28
+    "chg": 5.33
    },
    {
     "name": "新能源车ETF华夏",
     "grp": "制造",
-    "chg": -0.6
+    "chg": 4.7
    },
    {
     "name": "证券ETF国泰",
     "grp": "地产金融",
-    "chg": -0.63
+    "chg": 4.24
+   },
+   {
+    "name": "恒生科技ETF华泰柏瑞",
+    "grp": "跨境",
+    "chg": 4.24
+   },
+   {
+    "name": "光伏ETF华泰柏瑞",
+    "grp": "制造",
+    "chg": 4.2
+   },
+   {
+    "name": "有色金属ETF南方",
+    "grp": "资源",
+    "chg": 3.89
+   },
+   {
+    "name": "房地产ETF南方",
+    "grp": "地产金融",
+    "chg": 3.46
+   },
+   {
+    "name": "沪深300ETF华泰柏瑞",
+    "grp": "宽基",
+    "chg": 2.8
+   },
+   {
+    "name": "日经ETF华夏",
+    "grp": "跨境",
+    "chg": 2.69
+   },
+   {
+    "name": "黄金ETF华安",
+    "grp": "商品",
+    "chg": 2.19
+   },
+   {
+    "name": "纳指ETF国泰",
+    "grp": "跨境",
+    "chg": 1.69
+   },
+   {
+    "name": "上证50ETF华夏",
+    "grp": "宽基",
+    "chg": 1.54
+   },
+   {
+    "name": "医药ETF易方达",
+    "grp": "防御",
+    "chg": 1.33
+   },
+   {
+    "name": "十年国债ETF国泰",
+    "grp": "债券",
+    "chg": -0.13
    },
    {
     "name": "消费ETF汇添富",
     "grp": "防御",
-    "chg": -0.85
+    "chg": -0.72
+   },
+   {
+    "name": "煤炭ETF国泰",
+    "grp": "资源",
+    "chg": -0.95
+   },
+   {
+    "name": "银行ETF华宝",
+    "grp": "地产金融",
+    "chg": -1.73
    }
   ],
-  "median": 0.45,
-  "spread": 3.34,
+  "median": 3.46,
+  "spread": 11.79,
   "strong": [
-   "纳指ETF国泰",
-   2.49
+   "半导体ETF国联安",
+   10.06
   ],
   "weak": [
-   "消费ETF汇添富",
-   -0.85
+   "银行ETF华宝",
+   -1.73
   ]
  },
  "reach": [
@@ -221,7 +208,7 @@
   "gdelt:ai": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:semis": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:ceasefire": "HTTPError:HTTP Error 429: Too Many Requests",
-  "gdelt:dedollar": "HTTPError:HTTP Error 429: Too Many Requests",
+  "gdelt:taiwan": "HTTPError:HTTP Error 429: Too Many Requests",
   "gdelt:oil": "HTTPError:HTTP Error 429: Too Many Requests"
  }
 }
